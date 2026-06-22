@@ -123,7 +123,7 @@ Once you’ve granted your consent to a Niantic Kids account to be enabled, you�
 **A:**
 
 * Please log in to the Niantic Kids Portalhttps://parents.kidswebservices.com/using your parent credentials.
-* If you forget which email address you used, try searching your inbox for the activation email from:[[email protected]](https://niantic.helpshift.com/cdn-cgi/l/email-protection#751b1a071005190c35171a001b16105b051407101b01065b1b1c141b011c16191417065b161a18)
+* If you forget which email address you used, try searching your inbox for the activation email from:[[email protected]](https://niantic.helpshift.com/cdn-cgi/l/email-protection#90feffe2f5e0fce9d0f2ffe5fef3f5bee0f1e2f5fee4e3befef9f1fee4f9f3fcf1f2e3bef3fffd)
 * After logging in, tap Profile to see the registered email address.
 
 **Q: What can I do if I lose access to the email address used for parent login, or if I want to update the email address?**
