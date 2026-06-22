@@ -1,0 +1,17 @@
+---
+id: 3589
+title: Download All Assets
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3589-download-all-assets/
+---
+
+**Download All Assets**  is an option that you can enable to download all available game assets to your device at once rather than gradually over time. This option is disabled by default, to enable it:
+
+* In Map View, tap the  **Main Menu [![](../data/images/8158a10c-beb1-4ea4-b1de-59de039ec851.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/8158a10c-beb1-4ea4-b1de-59de039ec851.png)**
+* At the top right, tap  **Settings [![](../data/images/823f20cf-76d3-40a5-b57a-b868c9501596.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/823f20cf-76d3-40a5-b57a-b868c9501596.png)**
+* Tap  **Advanced Settings**
+* Scroll until you see  **Download All Assets**
+* Tap to start the download of the assets to your device. You can tap this option again at any time to re-download the assets to your device.
+
+Downloading game data, while connected to your Wi-Fi network, will help reduce the amount of mobile data you will consume when you are exploring your local area.
+
+Note that available game assets may change as the in-game content changes, so be sure to revisit this option regularly. Downloading all assets may also improve your gameplay experience at a live event like Pokémon GO Fest or during an in-game event like Community Day.

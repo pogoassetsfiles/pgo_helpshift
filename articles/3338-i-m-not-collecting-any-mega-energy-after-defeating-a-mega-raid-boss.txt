@@ -1,0 +1,7 @@
+---
+id: 3338
+title: I’m not collecting any Mega Energy after defeating a Mega Raid Boss.
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3338-i-m-not-collecting-any-mega-energy-after-defeating-a-mega-raid-boss/
+---
+
+Trainers can only collect 9,999 Mega Energy per Pokémon species. If you reach this limit, you will not receive Mega Energy after defeating a Mega Raid Boss. We plan to convert this extra Mega Energy into another reward in the future.

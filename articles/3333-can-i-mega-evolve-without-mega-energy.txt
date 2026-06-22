@@ -1,0 +1,17 @@
+---
+id: 3333
+title: Can I Mega Evolve without Mega Energy?
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3333-can-i-mega-evolve-without-mega-energy/
+---
+
+If a specific Pokémon has previously Mega-Evolved, you are able to Mega Evolve all Pokémon of the same species without using Mega Energy up until Max Level. For example, if you have Mega-Evolved Venusaur into Mega Venusaur, every Venusaur in your Pokémon inventory will be able to Mega Evolve without using Mega Energy.
+
+To Mega Evolve a previously Mega-Evolved Pokémon without using any Mega Energy, you will need to wait for the resting period to expire. The amount of time required for each Mega Pokémon may vary.
+
+You can choose to Mega Evolve a Pokémon before the resting period ends, however this will require Mega Energy. The less time remaining in the resting period, the less Mega Energy will be required to Mega Evolve that Pokémon.
+
+However, in order to Mega Evolve a Pokémon to Super Max Level, you must use Mega Energy after reaching Max Level with that Pokémon. Unlike with the previous Mega Levels, a Pokémon will not be able to advance to Super Max Level through Mega Evolution alone.
+
+![image](../data/images/9d0e219a-cad5-4023-9b67-6d40fa9f0175.png)
+
+**Please Note:**  Not all Mega Pokémon will be able to reach Super Max Level but may become able to later on.

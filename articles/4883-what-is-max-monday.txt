@@ -1,0 +1,15 @@
+---
+id: 4883
+title: What is Max Monday?
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4883-what-is-max-monday/
+---
+
+**Max Monday**  is a weekly event, similar to Spotlight Hour or Raid Hour, where a different featured Dynamax Pokémon will take over all Max Battles at Power Spots.
+
+Max Monday takes place every Monday evening from 6:00 PM to 7:00 PM local time.
+
+Here are a few tips for making the most of Max Monday:
+
+* Make sure you have enough Max Particles to enter into the Max Battles. Learn more about [how to collect Max Particles.](https://niantic.helpshift.com/hc/faq/4797-collecting-max-particles-and-dynamaxing-pokemon/#collecting-max-particles)
+* Power up your Dynamax or Gigantamax Pokémon's [Max Moves](https://niantic.helpshift.com/hc/faq/4797-collecting-max-particles-and-dynamaxing-pokemon/#using-max-particles) to make sure your Max Battle Party is ready to take on these challenging battles.
+* Find other local Trainers to battle with using Campfire! View nearby Max Battle and Flare activity within Pokémon GO by tapping the green icon under the compass in the top right of the map view, and check out meetups online on the Campfire Map!

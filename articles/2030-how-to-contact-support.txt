@@ -1,0 +1,70 @@
+---
+id: 2030
+title: How to Contact Support
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/
+---
+
+In general, the best way to contact Pokémon GO support is through our in-app support system. To contact support through the app:
+
+> * From the Map View, open the  **Main Menu**   [![](../data/images/2aa82156-4ef0-4917-92d9-ef84e086420f.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/2aa82156-4ef0-4917-92d9-ef84e086420f.png)
+> * At the top right, tap  **Settings**   [![](../data/images/b08fc158-d9bf-40ce-a216-b411502f7153.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/b08fc158-d9bf-40ce-a216-b411502f7153.png)
+> * Tap on  **Help** [![image](../data/images/89889191-5c8f-43e1-9760-1eec354c57a6-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/89889191-5c8f-43e1-9760-1eec354c57a6.png) in the top right corner to access the help center.
+> * Tap this button in the upper right corner.  [![](../data/images/cf3a0e8c-a5af-4eea-9bce-8b42dc13c2a6.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/cf3a0e8c-a5af-4eea-9bce-8b42dc13c2a6.png)
+
+However, there may be a more suitable contact method for your specific issue or Help Center articles that can help you out. Review the topics below to learn more.
+
+### Sign-in Help
+
+For assistance with signing in, check out these troubleshooting guides:
+
+* [Account Issues and Help with Sign-in](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/106-help-with-sign-in-issues-1585960582/?p=all&s=account-sign-in&f=help-with-sign-in-issues-1585960582)
+* [Troubleshooting Guide (iOS)](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/70-troubleshooting-guide-ios/?p=web&s=troubleshooting&f=troubleshooting-guide-ios)
+* [Troubleshooting Guide (Android)](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/401-troubleshooting-guide-android/?p=web&s=troubleshooting&f=troubleshooting-guide-android)
+
+### Reporting a Bug
+
+To report a bug with Pokémon GO that isn’t already listed under the [known issues search results](https://niantic.helpshift.com/hc/en/6-pokemon-go/search/?q=known+issues&t=cGFnZT0x), please contact us through the app.
+
+**You won't get an individual response to your report, but we’ll use this information to help us reproduce the issue and identify trends.**
+
+Using the in-app option allows us to collect important contextual information (like app version and device model) to better investigate bugs.
+
+### In-Game Shop Purchases
+
+If you purchased PokéCoins and wish to receive a refund, please contact [Apple Support](https://support.apple.com/HT204084) (iOS users), [Galaxy App Store](https://www.samsung.com/us/support/answer/ANS00076970/) (Samsung users), or [Google Play Help](https://support.google.com/googleplay/answer/2479637) (Android users) to review their respective refund policies, request a refund, or to inquire about a recent transaction.
+
+If you have a question about an item purchased from the shop using PokéCoins, please contact us through the app.
+
+Please note that app store refund policies may vary based on the location of user and the age of user, including legal minority, at the time of purchase, as may be required by applicable law.
+
+* [Apple](https://www.apple.com/legal/internet-services/itunes/)
+* [Google](https://support.google.com/googleplay/answer/2479637)
+* [Samsung](https://developer.samsung.com/terms)
+
+### Requesting Modification or Removal of an In-Game Location (PokéStops or Gyms)
+
+If you believe an in-game location should be modified or removed, you can submit a request for us to review an in-game feature representing a real-world location. Please [visit this page](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/120-reporting-pokestop-or-gym-issues/) for information on how to submit a request.
+
+### Reporting Inappropriate Gameplay
+
+To report a player or service that violates the Terms of Service or the Niantic Player Guidelines, contact us through the app. Please note that we can't discuss any actions we may have taken on another player’s account.
+
+### Submitting a Ban Appeal
+
+Our goal is to provide our players with a fair, fun, and legitimate gaming experience. We maintain a [Three Strikes Policy](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/39-three-strike-discipline-policy/?p=all&s=safety-security&f=three-strike-discipline-policy) against cheating and actively remove players that do not respect the rules the rest of the community follows. If you believe you were incorrectly punished, please review [this page](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/135-submitting-a-ban-appeal/?p=all&s=account-sign-in&f=submitting-a-ban-appeal) to submit a ban appeal.
+
+### Deleting my Account
+
+For account deletion requests, please contact us [using this form](https://niantic.helpshift.com/hc/en/6-pokemon-go/contact-us/?p=web&contact=1) and select "Delete My Account" under the issue type dropdown menu. Please note that this action cannot be reversed once fully processed.
+
+### Requesting my Data
+
+Request your data by contacting us through the support menu in the app.
+
+### Inquiries About Pokémon GO Game Content Available at PokéPark KANTO
+
+If you experience any issues or would like to share feedback regarding PokéPark KANTO game content (including Raid Battles, Field Research, or Pokémon encountered in the wild), please contact us through the Pokémon GO app.
+
+## Follow Us on Social Media
+
+[Like Niantic Support on Facebook](https://www.facebook.com/NianticSupport/) or [follow @NianticHelp on Twitter](https://twitter.com/niantichelp) to hear about changes and updates to all of our games.

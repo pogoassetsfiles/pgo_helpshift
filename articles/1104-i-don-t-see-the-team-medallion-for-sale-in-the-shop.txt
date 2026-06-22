@@ -1,0 +1,7 @@
+---
+id: 1104
+title: I don’t see the Team Medallion for sale in the Shop
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/1104-i-don-t-see-the-team-medallion-for-sale-in-the-shop/
+---
+
+The Team Medallion can only be purchased in the Shop once every 365 days. If you don’t see the Team Medallion available in the Shop, you have already purchased the item this year.

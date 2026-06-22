@@ -1,0 +1,134 @@
+---
+id: 5080
+title: Niantic Kids: Child Account & Parental Control Guide
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/5080-niantic-kids-child-account-parental-control-guide/
+---
+
+Upon launching Pokémon GO for the first time, you will be asked to enter your child’s birth date, and select the new player option. If your child is under 13 years old (or below the digital consent age in your region), they’ll need to play under an account managed by a parent or guardian.
+
+[![](../data/images/d19e1964-5c79-47d4-a0dd-8a8f7670a521.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/d19e1964-5c79-47d4-a0dd-8a8f7670a521.png)https://d2duuy9yo5pldo.cloudfront.net/niantic/5a3de3e6-d050-4fc9-8501-a0eb245088d8.png
+![](../data/images/5a3de3e6-d050-4fc9-8501-a0eb245088d8.png)
+
+Niantic Kids is a login method for Niantic products designed to obtain parental consent and keep children’s personal information secure when they access our games.
+
+In this guide, we will focus on how to use this option.
+
+## **Creating a Niantic Kids Account**
+
+* Tap  **New Player**
+* Tap  **Niantic Kids.** You’ll be sent to the Niantic Kids log in screen.
+* Tap the option “Create One Here” under the question “Don’t have a Niantic account?” to be redirected to the account creation screen.
+ **Please Note:** This username will only be used to log in, and will not be your child’s trainer name.
+.
+![](../data/images/3a5de0d3-2583-4f4a-891d-b60955d20cab.jpg)
+
+![](../data/images/0b5ab346-fd4f-4263-a5b6-c2f7302538fd.png)
+* After setting up a username and password, provide the guardian’s or parent’s email address to validate the recently created account.
+ [![](../data/images/4420d840-9eb4-492b-bb87-e2fefa32022e.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/4420d840-9eb4-492b-bb87-e2fefa32022e.png)[![](../data/images/f684fa4e-eb96-4d35-8906-221ad98c4ecb.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/f684fa4e-eb96-4d35-8906-221ad98c4ecb.png)https://d2duuy9yo5pldo.cloudfront.net/niantic/4420d840-9eb4-492b-bb87-e2fefa32022e.png
+* As a parent or legal guardian, you’ll be required to provide certain personal information about yourself, such as your credit card details or the last four digits of your social security number  for verification purposes, as required by law.
+ [![](../data/images/8c83f6c6-2d97-4136-8404-043dc68722d5.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/8c83f6c6-2d97-4136-8404-043dc68722d5.png)  [![](../data/images/c644c5ca-e26c-4b83-9ec5-dbd481b97418.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/c644c5ca-e26c-4b83-9ec5-dbd481b97418.png)
+a. In case you didn’t provide your consent for the creation of the account, you’ll be able to select the option “This is not my child” and this will automatically remove your email address from the Niantic Kids system and won’t allow your kid to play Pokémon GO.
+ [![](../data/images/730974dd-1522-40b1-9195-ebf6d5a1896e.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/730974dd-1522-40b1-9195-ebf6d5a1896e.png)
+* Once verified, you’d be able to create an account for your child as well as a parent account for yourself to control their in-game experience. This e-verification is carried out by third party providers.
+ [![](../data/images/c0b627ef-4edb-48ac-af48-c960e29ac0d8.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/c0b627ef-4edb-48ac-af48-c960e29ac0d8.png)[![](../data/images/eb937b0f-6a3e-46c6-96aa-8fa1390d6002.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/eb937b0f-6a3e-46c6-96aa-8fa1390d6002.png)[![](../data/images/8403839e-9a49-4eea-b622-2233415d699e.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/8403839e-9a49-4eea-b622-2233415d699e.png)
+* After you’ve set up the child’s account and entered your information, visit the Niantic Kids Parent Portal, and sign-in to your newly created account.
+ [![](../data/images/98c5ae22-13b8-4079-bab7-b81e61a321c4.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/98c5ae22-13b8-4079-bab7-b81e61a321c4.png)[![](../data/images/72dc9ed6-0c91-46a8-9cb9-4a68b664e3ee.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/72dc9ed6-0c91-46a8-9cb9-4a68b664e3ee.png)
+https://d2duuy9yo5pldo.cloudfront.net/niantic/98c5ae22-13b8-4079-bab7-b81e61a321c4.png
+* Approve permissions required to play, and enable optional game features according to your preferences.
+ [![](../data/images/276460db-7c90-476e-aa86-3fa000ecfece.png)
+
+![](../data/images/c26a3878-8bd4-4b98-b936-854cc5531471.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/c26a3878-8bd4-4b98-b936-854cc5531471.png)
+* The Niantic Kids account setup is now complete. Your child can start playing Pokémon GO using the login credentials you created.
+
+## **Parental Controls and Child Account Permissions**
+
+Once you’ve granted your consent to a Niantic Kids account to be enabled, you’ll be able to access Niantic Kids Parent Portal to review your child activities.
+
+* Access the Niantic Kids Parent Portal website
+* Find the option “Sign in to Parent Portal”
+ [![](../data/images/6d4d237a-d192-4d7a-8864-49d806130059.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/6d4d237a-d192-4d7a-8864-49d806130059.png)
+* You’ll be redirected to the Sign in screen where you need to enter your personal (parent) email address and you’ll receive via email a unique login link.
+ [![](../data/images/d66bd677-3c76-48fc-9f7d-ceedaebbda68.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/d66bd677-3c76-48fc-9f7d-ceedaebbda68.png)
+
+**Parent portal allows you to turn on/off the following functions for your kids account at anytime:**
+
+* **Location (REQUIRED):** Your child will need this permission to use Pokémon GO.
+
+* **Sponsored Content:** Allows the child to access in-game content featuring external companies
+
+* **Friends:** Allows your child to use the [Friends Feature](https://niantic.helpshift.com/hc/en/6-pokemon-go/section/60-friends-gifting-trading/?p=web&s=friends-gifting-and-trading) (Trainer profile visibility, gift exchange, etc). Parents receive an email when new friends are added.
+
+* **Shared AR Experiences:** To allow Niantic will temporarily collect geospatial data from your child’s device camera
+
+**Party Play:** Allow your child to access the [Party Play feature](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4310-what-is-party-play/) (group play sessions). Your child will only be able to participate in a party if the Host is on their Friend List. Your child will not be able to share location with other Party Members.
+
+**Note:**  Some features are not available by default for child accounts and cannot be enabled manually. These include, but are not limited to:
+
+* **Online Status** : Child accounts cannot view others’ online status, and their own status will not be visible to friends—regardless of whether the setting is turned on or off.
+* **Routes – Creation** : Child accounts are not able to create Routes.
+* **Reward Road** : This feature is not accessible to child accounts.
+
+## **Purchasing and Ticketing Instructions**
+
+* **In-game Shop**
+
+* Child accounts can purchase in-game ticketed events (e.g., timed research or other special events) via in-app purchases, unless in-app purchases are restricted at the device level by the parent or guardian.
+
+* **Gifting of In-Game Paid Ticketed Events**
+
+* Gifting only available to friends, so for child accounts friends must be turned on before they can use this feature
+* **Note:**  You must be at least [Great Friends](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2847-friend-list-friendship-levels-1614900279/) with the other Trainer for whom you are purchasing the virtual event ticket.
+
+* **Live Event Tickets**
+
+* Child accounts will not see the  **“Events”**  tab that lists live events like GO Fest or GO Tour. However, parents can still purchase live event tickets for their child  **if their own Pokémon GO account is the parent email of record for the child account** .
+
+**For Detailed Instructions on How to Purchase Live Event Tickets for Child Accounts, Please Refer to the Steps Below:**
+
+* The parent or guardian must be logged into their Pokémon GO account, which is linked to their child’s account.
+* In the parent account, tap the  **Main Menu**  button in Map View. [![](../data/images/f37c2463-606a-4e41-901e-d06a551c61a7.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/f37c2463-606a-4e41-901e-d06a551c61a7.png)
+* Tap  **“Events”**  in the upper right corner of the screen.  [![](../data/images/c701c35f-7443-47d0-98e1-2630e74a2129.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/c701c35f-7443-47d0-98e1-2630e74a2129.png)
+* On the following page, check and select live events where tickets are available.
+ [![](../data/images/381a1673-2b3b-4ed1-83ce-3c5fc9c9c182.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/381a1673-2b3b-4ed1-83ce-3c5fc9c9c182.png)
+* Tap " **Get Tickets"** .
+* Choose the dates and time slots if available. The greyed-out options are sold out. Then proceed to the next page.
+* Choose your mobile service provider.
+* You can now manage the number of tickets you would like to buy. The default account is set to yours, and you can simply enter your child’s account Trainer name in the box and tap  **Add** .
+ [![](../data/images/d151a5ee-e192-4861-b894-b94da6f8979f.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/d151a5ee-e192-4861-b894-b94da6f8979f.png)
+
+**Note:**  If any error message appears, please double-check the following:
+
+* Please ensure that the spelling is correct
+* Verify that the email associated with the parent/guardian’s Pokémon GO account matches the email address on file
+
+* Choose the add-ons you wish to purchase.
+* Double-check the Trainer name for the ticket purchase.
+* Confirm that the date information is correct. You can also make changes to the order on this page.
+* On the payment page, select your preferred payment method and complete the transaction.
+* After the payment, you will receive a confirmation email.
+* When you tap the  **“Events”** page again, the status will change to  **Attending** .
+ [![](../data/images/2a644d11-2b9e-4d92-87ba-a20efd6f3cc0.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/2a644d11-2b9e-4d92-87ba-a20efd6f3cc0.png)
+
+* Once a ticket is purchased and the status changes to  **Attending** , additional tickets cannot be purchased, and changes to the event schedule are not allowed. If you would like to purchase additional tickets, please [contact customer support](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/). Add-ons can be purchased until they are sold out.
+
+**Other important notes:**
+
+* Children can attend events when accompanied by a parent or guardian.
+* Unlike with standard accounts, a parent and child don’t need to be Friends to select the child’s username.
+
+## **Frequently Asked Questions**
+
+**Q: How do I check which email address is connected to my child’s account?**
+
+**A:**
+
+* Please log in to the Niantic Kids Portalhttps://parents.kidswebservices.com/using your parent credentials.
+* If you forget which email address you used, try searching your inbox for the activation email from:[[email protected]](https://niantic.helpshift.com/cdn-cgi/l/email-protection#751b1a071005190c35171a001b16105b051407101b01065b1b1c141b011c16191417065b161a18)
+* After logging in, tap Profile to see the registered email address.
+
+**Q: What can I do if I lose access to the email address used for parent login, or if I want to update the email address?**
+
+**A:** Please [contact KWS (Kids Web Services)](https://support.kidswebservices.com/) directly via their support form:
+ [![](../data/images/617b0dc5-9491-4ffd-b70f-e140b42b0963.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/617b0dc5-9491-4ffd-b70f-e140b42b0963.png)
+
+**For other Niantic Kids related questions, please refer to** [**Niantic Kids Account FAQ**](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4111-niantic-kids-frequently-asked-questions/) **.**

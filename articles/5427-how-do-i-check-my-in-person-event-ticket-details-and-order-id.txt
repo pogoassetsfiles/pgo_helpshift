@@ -1,0 +1,30 @@
+---
+id: 5427
+title: How do I check my in-person event ticket details and order ID?
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/5427-how-do-i-check-my-in-person-event-ticket-details-and-order-id/
+---
+
+Follow these steps to check your ticket details and Order ID:
+
+(1) From the Confirmation Email
+
+You can find your ticket details and Order ID in the confirmation email, which is sent from  **[[email protected]](https://niantic.helpshift.com/cdn-cgi/l/email-protection).**
+
+Refer to the example below:
+
+* ① Order number: Your Order ID (starts with “PGO”)
+* ② Date/Time: Your ticketed event date and time
+
+![image](../data/images/aef8b03c-3524-41e2-9b29-8c0afeaa6790.png)
+
+(2) From the In-Game Menu
+
+* From the Map View, tap the Main Menu
+![image](../data/images/aeb56bb1-c1b6-4d6b-9190-faaea87833d5.png)
+ at the bottom center of your screen.
+* Tap the Events button
+![image](../data/images/d536ffda-63d1-412f-8612-fd9b327fb852.png)
+ located in the top-right corner of the menu.
+* Find the event you are attending (e.g., Pokémon GO Fest 2026: Tokyo) and tap on the event banner.
+* You can view your ticket details here, such as your selected event date and time.
+* For order-related information, including your order ID, please check “View my order(s)” at the bottom of the page.

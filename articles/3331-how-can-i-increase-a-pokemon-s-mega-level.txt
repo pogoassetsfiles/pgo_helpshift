@@ -1,0 +1,25 @@
+---
+id: 3331
+title: How can I increase a Pokémon’s Mega Level?
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3331-how-can-i-increase-a-pokemon-s-mega-level/
+---
+
+**Mega Levels** are a special type of bonus that is only active while a Pokémon is Mega-Evolved. The more often you Mega Evolve a specific Pokémon, the higher its Mega Level will be. The Mega Level also doesn’t reset when Mega Evolution ends.
+
+However, Mega Evolving won’t be enough to unlock the highest Mega Level, Super Max Level. Super Max Level can only be unlocked by using the Pokémon’s Mega Energy to power it up.
+
+The higher your Pokémon’s Mega Level, the more bonuses that will be active when that Pokémon is Mega-Evolved. These bonuses can affect your gameplay in a variety of ways, for example, increasing XP catch bonuses for Pokémon of the same type as the Mega-Evolved Pokémon.
+
+You can see a Pokémon’s Mega Level, and the bonuses associated with that Pokémon’s Mega Level, by tapping on the Mega icon
+![image](../data/images/c9dff62a-b88f-44f3-b219-5b417cf44c89.png)
+ on its Pokémon details page.
+
+![image](../data/images/4d403873-15ee-48fa-9efb-51fb155c3bae.png)
+
+For more details on what actions are required to increase your Pokémon’s Mega Level, and the bonuses associated with that Mega Level, tap on the next Mega Level icon.
+
+![image](../data/images/56128b1a-29f2-4498-97cb-3f6c0aac4703.png)
+
+![image](../data/images/a988b18b-d078-48b9-b493-da87fbbedd4b.png)
+
+![image](../data/images/51d39c64-4615-4fdd-8145-2d56df5e60e5.png)

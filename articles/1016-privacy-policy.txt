@@ -1,0 +1,7 @@
+---
+id: 1016
+title: Privacy Policy
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/1016-privacy-policy/
+---
+
+[Privacy Policy](https://www.nianticlabs.com/privacy/)

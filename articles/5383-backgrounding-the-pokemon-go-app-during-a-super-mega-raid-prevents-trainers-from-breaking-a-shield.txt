@@ -1,0 +1,9 @@
+---
+id: 5383
+title: Backgrounding the Pokémon GO app during a Super Mega Raid prevents Trainers from breaking a shield
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/5383-backgrounding-the-pokemon-go-app-during-a-super-mega-raid-prevents-trainers-from-breaking-a-shield/
+---
+
+**Issue Description:**  Trainers that switch from Pokémon GO to another app during a Super Mega Raid will be unable to break the Mega Pokémon’s shield when it becomes Enraged. Depending on the size of your Raid party, this could result in the loss of the Raid Battle.
+
+**Issue Status:** Resolved.

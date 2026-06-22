@@ -1,0 +1,9 @@
+---
+id: 4197
+title: Submitting a Routes Ban Appeal
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4197-submitting-a-routes-ban-appeal/
+---
+
+If you’ve been suspended for violating the Player Guidelines while participating in Routes, click on the “ **Routes Appeal”**  button down below and fill out the corresponding form.
+
+Please note that this form is specifically designed for appealing a game suspension incurred as a result of inappropriate behavior or misconduct while participating in Routes. Do not use this form to contest a rejected Route submission.

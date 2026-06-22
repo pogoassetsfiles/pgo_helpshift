@@ -1,0 +1,11 @@
+---
+id: 4314
+title: Reporting Inappropriate Behavior in Party Play
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4314-reporting-inappropriate-behavior-in-party-play/
+---
+
+We encourage all Trainers to abide by the Community Guidelines and Terms of Service whenever playing Pokémon GO, but especially while participating in Party Play.
+
+However, if the host or a member of your Party behaves inappropriately, you can submit a report to Niantic for review by [reaching out to the Pokémon GO support team](https://niantic.helpshift.com/hc/faq/2030-how-to-contact-support/). Note that, in order to take action on your report, you will need to provide the Trainer Nickname of the Trainer in question.
+
+Once we receive your report, we will review the situation and take the appropriate action, including but not limited to issuing [strikes](https://niantic.helpshift.com/hc/faq/39-three-strike-discipline-policy/) against their account.

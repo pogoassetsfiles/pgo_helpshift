@@ -1,0 +1,53 @@
+---
+id: 4111
+title: Niantic Kids Frequently Asked Questions
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4111-niantic-kids-frequently-asked-questions/
+---
+
+The [Niantic Kids Parent Portal](https://nianticlabs.com/parent-portal?hl=en) allows parents to manage their child’s experience across Niantic games and make sure their child’s personal information remains secure. Parents are able to review and approve their children’s access and permission requests before playing Niantic games.
+
+### Why did I receive a request to review my child’s account?
+
+Since your child is under the age of digital consent, you need to review and approve your child’s game and permission requests before they can play Niantic games. In order to comply with the Children’s Online Privacy Protection Act (COPPA) and General Data Protection Regulation (GDPR), Niantic is required to obtain verifiable consent from the child’s parent prior to gathering any personal information from a child.
+
+When your child signed up to play Pokémon GO, we asked them to share your email address so we could contact you to provide consent. Before they can play Pokémon GO, you need to create a Niantic Kids account so you can approve your child’s game and permission requests.
+
+Your child will not be able to access Pokémon GO until you approve the request via the Niantic Kids Parent Portal. You can use the Niantic Kids Parent Portal to manage the privacy settings of your child’s account. You will have options to control what personal information Niantic collects from your child and will always be informed of any new requests so you can review and approve them.
+
+If you do not approve the request within a reasonable time of your receiving the initial permission request email, then the record of your online contact information will be deleted.
+
+### Why do you need my credit card details to verify my account?
+
+We’re required by law to obtain verifiable consent from the child’s parent before we gather any personal information from the child. Because of this, we need to verify your identity so we know you are really you.
+
+One of the most common identity verification methods is charging or authorizing a small amount to your credit card. The credit card transaction proves your identity. This process is handled by our verification provider SuperAwesome, in accordance with their Privacy Policy, meaning that your credit card information will NOT be shared with Niantic. Your credit card will NOT be used for any other purpose.
+
+The amount and type of transaction depends on your location:
+
+* In the US, this is a one-time charge for $0.50. This is a payment and NOT a temporary authorization hold. The full amount of this charge is donated to charity by our identity verification provider SuperAwesome. No further charges will be made to your credit card after this verification payment.
+* Outside the US, SuperAwesome places a temporary authorization hold for £0.30. Authorization holds are not charges and will be removed by your financial institution after approximately 7 days.
+
+### How do I approve or revoke my child’s permissions?
+
+Within the Niantic Kids Parent Portal, parents can enable and disable what personal information Niantic collects from your child.
+
+* Visit the [Niantic Kids Parent Portal](https://nianticlabs.com/parent-portal?hl=en) and log into your parent account.
+ [![](../data/images/ca4c33bf-ce3a-4586-a9ad-5b98d2c178a4.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/ca4c33bf-ce3a-4586-a9ad-5b98d2c178a4.png)
+* On the overview page, click See Profile to view your child’s permissions.
+    [![](../data/images/8a227170-5a92-4873-947e-db0c7be04fd0.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/8a227170-5a92-4873-947e-db0c7be04fd0.png)
+* Under the Active Apps section, click Review to manage each permission for Pokémon GO.
+ [![](../data/images/f487feec-d813-406c-8c59-054f5ca51466.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/f487feec-d813-406c-8c59-054f5ca51466.png)
+
+### Can I link my Niantic Kids account to another login method?
+
+No. The account linking functionality is not available to children under the age of 13. Trainers under the age of 13 will not see the option in the Settings menu.
+
+### Can I enable Friend List, Trading Pokémon, sponsored PokéStops, and other features on my child’s Niantic Kids account?
+
+If your child logs into Pokémon GO using Niantic Kids, you can opt into[enabling social features](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/1026-how-can-my-child-access-social-features-such-as-friends-gifting-and-trading/)such as Friends, Gifting, Trading, and [sponsored PokéStops](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/67-how-can-my-child-access-sponsored-in-game-locations/) for your child in the  [Niantic Kids Parent Portal](https://nianticlabs.com/parent-portal?hl=en). You can also revoke your child’s access to these features at any time.
+
+**Please Note:** If you enable social features on your child’s account, your child’s friends will see your child's Trainer profile and limited information about the location where your child initially collected Pokémon or Gifts. When your child makes new friends, you will receive a digest email listing the new friendships your child has made that day.
+
+### Need to get in touch with us regarding an issue with Niantic Kids?
+
+Please [contact us](https://niantic.helpshift.com/hc/en/6-pokemon-go/contact-us/?p=web&contact=1) and select "Sign-in issue".

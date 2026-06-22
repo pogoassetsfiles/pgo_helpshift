@@ -1,0 +1,23 @@
+---
+id: 99
+title: Changing your Trainer Nickname
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/99-changing-your-trainer-nickname-1575487203/
+---
+
+If you would like to change your Trainer nickname, you can change it within the Settings menu.  **You can only change your nickname a limited number of times, so choose wisely.**  Keep in mind that your nickname will be displayed to other Trainers.
+
+**To change your nickname:**
+
+* From the Map View, tap the  **Main Menu**  [![image](../data/images/055ea371-c47d-48e6-aa57-57433c320b57-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/055ea371-c47d-48e6-aa57-57433c320b57.png)
+
+* At the top right, tap  **Settings**  [![](../data/images/5cec615c-0cb4-4789-b4c8-4d9b265af7b5.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/5cec615c-0cb4-4789-b4c8-4d9b265af7b5.png)
+
+* Tap  **Account**
+
+* At the top of the Account page, you will see your current Trainer Nickname, tap the pencil icon to change your Nickname.  **Note** : If you cannot see the pencil icon, you have already redeemed all available nickname changes.
+
+* Read the disclosure about how often you can change your Trainer Nickname and tap either  **Yes**  to move forward or  **No**  to go back.
+
+* If you have tapped Yes, you can enter your new Trainer Nickname and tap  **Yes**  to complete the Trainer Nickname
+
+Note that if you have chosen a Trainer Nickname that is already in use by another Trainer, a number of variations on the Nickname you’ve entered will be shown for you to choose from.

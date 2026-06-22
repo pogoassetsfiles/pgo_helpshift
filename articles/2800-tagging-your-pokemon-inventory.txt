@@ -1,0 +1,38 @@
+---
+id: 2800
+title: Tagging your Pokémon Inventory
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2800-tagging-your-pokemon-inventory/
+---
+
+As your Pokémon collection grows, you can use tags to categorize and easily access your Pokémon based on characteristics you are most interested in.
+
+**Note** : This feature is only available to Trainers who are Level 15 and above.
+
+### Creating a New Pokémon Tag:
+
+* From the  **Tags** page, tap the  **Plus** [![image](../data/images/97b0ce07-0d0d-4c50-9bea-93f4ac820eb4-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/97b0ce07-0d0d-4c50-9bea-93f4ac820eb4.png)button.
+* Fill out the name of this new tag and select the background color of your choice.
+* Tap  **Done** .
+* Tap the  **Add Pokémon**  [![image](../data/images/f9bb4e35-c742-4e51-a485-a353cf480087-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/f9bb4e35-c742-4e51-a485-a353cf480087.png) button on your new tag’s page.
+* Tap the Pokémon you would like to add to this tag to select them.
+* Tap  **Select** to apply your new tag to the selected Pokémon.
+
+### Managing and Filtering by Pokémon Tag:
+
+* In Map View, tap the  **Main Menu  [![](../data/images/62e67338-2bda-43ad-87df-152edeebecfd.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/62e67338-2bda-43ad-87df-152edeebecfd.png)** button.
+* Tap the  **Pokémon [![](../data/images/328d2bfa-ba31-4385-9f76-c1c04f122234.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/328d2bfa-ba31-4385-9f76-c1c04f122234.png)** button.
+* Tap the  **Tags** header on the upper left.
+
+[![image](../data/images/a3f3aa8d-9bfd-471c-8da8-2b651033101b-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/a3f3aa8d-9bfd-471c-8da8-2b651033101b.png)
+
+Tapping on a tag on this page will result in a filtered view of your Pokémon collection that only shows Pokémon that have this tag. You can also edit or delete tags from this page.
+
+### Managing a Pokémon’s Tags:
+
+* From the Map View, tap the  **Main Menu  [![](../data/images/8bc62729-8639-49d3-b197-a3be449bc79c.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/8bc62729-8639-49d3-b197-a3be449bc79c.png)** button.
+* Tap the  **Pokémon  [![](../data/images/48fe09dd-c81a-4b29-8f15-3108cd358842.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/48fe09dd-c81a-4b29-8f15-3108cd358842.png)**  button.
+* Select a Pokémon from your collection that has a tag.
+* Tap any of the tags on the Pokémon below its HP bar or tap  **Tags** from the Pokémon action menu.
+* From this menu you are able to remove the tag, add another tag to the Pokémon, or see all Pokémon with that tag in your Pokémon collection.
+
+[![image](../data/images/0a25fde1-ac62-4dac-992b-766f8eb8f857-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/0a25fde1-ac62-4dac-992b-766f8eb8f857.png)

@@ -1,0 +1,23 @@
+---
+id: 129
+title: Appraising your Pokémon
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/129-appraising-your-pokemon/
+---
+
+Pokémon GO’s appraisal system allows you to assess the potential of your Pokémon.
+
+**To appraise a Pokémon:**
+
+* In Map View, tap the  **Main Menu**  icon [![image](../data/images/acd916a3-8589-4c94-9ab8-994bbe63a00c-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/acd916a3-8589-4c94-9ab8-994bbe63a00c.png)
+* Tap  **Pokémon**   [![image](../data/images/f297bfca-1268-4b4a-bc12-209b130217e4-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/f297bfca-1268-4b4a-bc12-209b130217e4.png)
+* Select a Pokémon
+* Open the  **Menu**  [![image](../data/images/de10c583-fb01-4407-9aaa-f3f1f5e68397-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/de10c583-fb01-4407-9aaa-f3f1f5e68397.png)
+* Tap  **Appraise**
+
+When you tap Appraise, your Team Leader offers you an evaluation of your Pokémon. Each Pokémon is appraised out of three stars, with more stars reflecting higher battle potential. Along with the star rating, your Team Leader gives specific appraisals for Attack, Defense, and HP.
+
+[![image](../data/images/1fa25d88-ecae-4762-9c6d-0f2e864756f5-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/1fa25d88-ecae-4762-9c6d-0f2e864756f5-2t.png)
+
+Swipe left or right or tap the white arrows to view appraisals for adjacent Pokémon in your inventory.
+
+**Please note**  that Evolving or Powering Up a Pokémon will not improve its appraisal, however Purifying a Shadow Pokémon will improve its appraisal.
