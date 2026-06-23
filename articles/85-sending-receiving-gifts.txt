@@ -29,7 +29,7 @@ You can hold a maximum of 20 Gifts in your Bag at any given time. However, Gifts
 
 Be sure to save the Postcard attached to the Gift before sending, as you cannot add it to your [Postcard Book](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3196-what-is-the-postcard-book/?p=all&l=en&s=top-articles&f=what-is-the-postcard-book) after you have sent it to your Friend.
 
-To personalize a Gift, you can [attach a sticker](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2553-what-are-gift-stickers/?p=web&s=friends-gifting-trading&f=what-are-gift-stickers) before sending it to a friend. After selecting the Gift you’d like to send, tap “Add sticker” and select the sticker you’d like to attach. Your friend will see the sticker when they open the Gift.
+To personalize a Gift, you can [attach a sticker](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2553-what-are-gift-stickers/?p=web&s=friends-gifting-trading&f=what-are-gift-stickers) before sending it to a friend. After selecting the Gift you’d like to send, tap “Add Sticker” and select the sticker you’d like to attach. Your friend will see the sticker when they open the Gift.
 
 You can send each of your friends up to one Gift per day. If your friend has not yet opened a Gift that you’ve previously sent them, you won’t be able to send them another one until they open the first one.
 
