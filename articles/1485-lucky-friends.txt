@@ -4,7 +4,7 @@ title: Lucky Friends
 url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/1485-lucky-friends/
 ---
 
-On October 15th, 2025, changes to level cap and progression will introduce new milestones, research tasks, rewards, and chances of increasing friendship levels. For more information, please visit the Official Pokémon GO Website
+On October 15th, 2025, changes to level cap and progression will introduce new milestones, research tasks, rewards, and chances of increasing Friendship levels. For more information, please visit the Official Pokémon GO Website
 
 Once you become Best Friends, all subsequent friendship interactions have a small chance to make you and your Best Friend become Lucky Friends. You’ll be notified by an in-app notification and will be able to see that they’re your Lucky Friend in your Friend List and Friend Profile page.
 
