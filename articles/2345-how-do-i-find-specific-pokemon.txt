@@ -4,7 +4,7 @@ title: How do I find specific Pokémon?
 url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2345-how-do-i-find-specific-pokemon/
 ---
 
-You may want to find and catch specific Pokémon to fill up your Pokédex, collect Candy to power up one of your favorite Pokémon, complete Research Tasks or Collection Challenges. Listed below are several ways to find a particular Pokémon, or types of Pokémon, and some important factors to consider during your search.
+You may want to find and catch specific Pokémon to fill up your Pokédex, collect Candy to power up or evolve one of your favorite Pokémon, complete Research Tasks or Collection Challenges. Listed below are several ways to find a particular Pokémon, or types of Pokémon, and some important factors to consider during your search.
 
 ### Can I set an alert for specific Pokémon nearby?
 
@@ -53,7 +53,7 @@ It’s best to look for Pokémon of a specific type in the biome that best match
 
 #### Weather
 
-Weather conditions also affect what types of Pokémon appear more frequently. Rain, for instance, increases apperances of Water-, Electric-, and Bug-type Pokémon. Tap the button in the top right corner of the Map View to see the weather in your area and types you’re more likely to find around you.
+Weather conditions also affect what types of Pokémon appear more frequently. Rain, for instance, increases appearances of Water-, Electric-, and Bug-type Pokémon. Tap the button in the top right corner of the Map View to see the weather in your area and types you’re more likely to find around you.
 
 ![image](../data/images/ad_4nxfqp2qozvz-t7jou5khnqro5drc79me6xndttyk4qtfwud112t3fyzertpmigm-puhke-v6mdwxc_22_fiqzmlxw1cyznhxhkrsm-_rsnvpi3f9bnq3pfblx7j_vbhv3aogshj3gbnuzdogyavm9npn2zq.png)
 
