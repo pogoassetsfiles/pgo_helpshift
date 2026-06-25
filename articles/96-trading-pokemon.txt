@@ -39,9 +39,9 @@ Tap on the  **Confirm**  button to complete the trade.
 
 ### SPECIAL TRADES AND LIMITATIONS
 
-Some Pokémon are considered  **special trades** . These Pokémon require more Stardust to trade and you can only complete a limited number of special trades per day.
+Some Pokémon are considered  **S**  **pecial Trades** . These Pokémon require more Stardust to trade and you can only complete a limited number of Special Trades per day.
 
-The following are special trades:
+The following are Special Trades:
 
 * Pokémon not already in your Pokédex
 * Legendary Pokémon
