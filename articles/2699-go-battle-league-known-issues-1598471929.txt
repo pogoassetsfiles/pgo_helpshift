@@ -1,10 +1,14 @@
 ---
 id: 2699
-title: GO Battle League Known Issues
+title: GO Battle League Current System Known Issues
 url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2699-go-battle-league-known-issues-1598471929/
 ---
 
-Here is a list of issues related to GO Battle League that are currently being investigated by our engineering team. This list will be updated regularly, and issues will be added and removed as they are discovered and resolved. Please note that this is not a comprehensive list of all issues we are aware of or working to fix. You can find the list of known issues unrelated to GO Battle League [here](https://niantic.helpshift.com/hc/section/180-release-notes-known-issues/).
+Below is a list of issues related to the current system of GO Battle League.
+
+For a list of confirmed known issues in the new PVP battle system, please see [this article.](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/5505-new-pvp-battle-system-known-issues/)
+
+Please note that these are not comprehensive lists of all issues we are aware of or working to fix. You can find the list of known issues unrelated to GO Battle League [here](https://niantic.helpshift.com/hc/section/180-release-notes-known-issues/).
 
 To report a bug that isn’t listed here, or get one on one support, please submit a ticket in-app under the Settings menu, or see [our article](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support) on how to best contact us for different issues.
 
