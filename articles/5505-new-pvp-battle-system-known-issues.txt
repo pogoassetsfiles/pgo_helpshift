@@ -1,0 +1,80 @@
+---
+id: 5505
+title: New PvP Battle System Known Issues
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/5505-new-pvp-battle-system-known-issues/
+---
+
+Here is a list of issues related to the new PvP battle system for GO Battle League that are currently being investigated by our engineering team. This list will be updated regularly, and issues will be added and removed as they are discovered and resolved.
+
+For a list of confirmed known issues in the current PvP battle system, please see [this article](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2699-go-battle-league-known-issues-1598471929/).
+
+Please note that this is not a comprehensive list of all issues we are aware of or working to fix. You can find the list of known issues unrelated to GO Battle League [here](https://niantic.helpshift.com/hc/section/180-release-notes-known-issues/).
+
+To report a bug that isn’t listed here, or get one on one support, please submit a ticket in-app under the Settings menu, or see [our article](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support) on how to best contact us for different issues.
+
+While we work on fixing these issues, please try these tips to mitigate some of these issues:
+
+* Avoid enabling  **“Auto-Join”**  for different Wi-Fi networks, as your device may switch networks during a battle and interrupt your connection.
+* Avoid playing in areas where the internet connection is unstable, such as on subways or underground.
+
+**Last updated** : June 26, 2026
+
+Charged Attacks may fail to start
+
+**Issue Description:** Trainers may have difficulties deploying Charge Attacks due to Charged Attack buttons being unresponsive or bubbles failing to appear in time.
+
+**Issue Status:**  Investigating
+
+Charged Attacks may cause unexpected visual issues
+
+**Issue Description:**  During Charged Attacks, some Trainers may experience unexpected visual issues, including but not limited to the camera being stuck on the active Pokémon.
+
+**Issue Status:**  Investigating
+
+Adverse network conditions may cause unexpected gameplay issues
+
+**Issue Description:**  When battling in adverse network conditions, game actions may behave in unexpected ways. Some examples include, but are not limited to, the battle becoming unresponsive immediately after switching Pokémon at the start of battle, and Pokémon switched in not displaying correctly.
+
+**Issue Status:** Investigating
+
+Battle is recorded as a loss when opponent leaves the battle
+
+**Issue Description:**  When a Trainer’s opponent leaves the battle, the Trainer might find that the battle was recorded as having been lost.
+
+**Issue Status:**  Fixed in future release
+
+Battle may become unresponsive when performing a Charged Attack
+
+**Issue Description:**  When participating in a battle in adverse network conditions, Trainers may find that their battle becomes unresponsive when performing a Charged Attack.
+
+**Issue Status:** Fixed in future release
+
+After a Pokémon faints, Trainers may be unable to switch their Pokémon
+
+**Issue Description:**  When a Trainer switches in a Pokémon after their previous Pokémon faints, they may be unable to switch to their other available Pokémon immediately.
+
+**Issue Status:**  Fixed in future release
+
+Ties in a battle are being counted as losses
+
+**Issue Description:**  When a battle results in a tie, the tie will be recorded as a loss for both Trainers' ratings.
+
+**Issue Status:**  Fixed in future release
+
+Trainers may experience a delay in being able to perform Fast Attack upon entering a battle
+
+**Issue Description:**  When participating in a battle in adverse network conditions, Trainers may find that they are unable to perform Fast Attacks until their Pokémon is first damaged by the opponent’s Pokémon.
+
+**Issue Status:**  Fixed in future release
+
+Camera may become locked onto a Trainer’s active Pokémon
+
+**Issue Description:**  Trainers may find that the camera is stuck on their active Pokémon for a few seconds after the battle has started.
+
+**Issue Status:**  Fixed in future release
+
+New Pokémon may not appear to switch in after the previous Pokémon faints
+
+**Issue Description:** When a Pokémon faints during a battle in adverse network conditions, a new Pokémon will enter the battle. However, a visual issue may cause it to appear as though the previously fainted Pokémon is still in battle, even though the newly switched-in Pokémon’s Charged Attacks and HP will appear.
+
+**Issue Status:** Fixed in future release
