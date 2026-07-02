@@ -10,14 +10,14 @@ For a list of confirmed known issues in the current PvP battle system, please se
 
 Please note that this is not a comprehensive list of all issues we are aware of or working to fix. You can find the list of known issues unrelated to GO Battle League [here](https://niantic.helpshift.com/hc/section/180-release-notes-known-issues/).
 
-To report a bug that isn’t listed here, or get one on one support, please submit a ticket in-app under the Settings menu, or see [our article](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support) on how to best contact us for different issues.
+To report a bug that isn’t listed here, or get one on one support, please submit a ticket in-app under the Settings menu, or see [our article](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support) on how to best contact us for different issues.
 
 While we work on fixing these issues, please try these tips to mitigate some of these issues:
 
 * Avoid enabling  **“Auto-Join”**  for different Wi-Fi networks, as your device may switch networks during a battle and interrupt your connection.
 * Avoid playing in areas where the internet connection is unstable, such as on subways or underground.
 
-**Last updated** : June 26, 2026
+**Last updated** : July 2, 2026
 
 Charged Attacks may fail to start
 
@@ -43,27 +43,9 @@ Battle is recorded as a loss when opponent leaves the battle
 
 **Issue Status:**  Fixed in future release
 
-Battle may become unresponsive when performing a Charged Attack
-
-**Issue Description:**  When participating in a battle in adverse network conditions, Trainers may find that their battle becomes unresponsive when performing a Charged Attack.
-
-**Issue Status:** Fixed in future release
-
-After a Pokémon faints, Trainers may be unable to switch their Pokémon
-
-**Issue Description:**  When a Trainer switches in a Pokémon after their previous Pokémon faints, they may be unable to switch to their other available Pokémon immediately.
-
-**Issue Status:**  Fixed in future release
-
-Ties in a battle are being counted as losses
-
-**Issue Description:**  When a battle results in a tie, the tie will be recorded as a loss for both Trainers' ratings.
-
-**Issue Status:**  Fixed in future release
-
 Trainers may experience a delay in being able to perform Fast Attack upon entering a battle
 
-**Issue Description:**  When participating in a battle in adverse network conditions, Trainers may find that they are unable to perform Fast Attacks until their Pokémon is first damaged by the opponent’s Pokémon.
+**Issue Description:**  When participating in a battle in adverse network conditions, Trainers may find that they are unable to perform Fast Attacks until their Pokémon is first damaged by the opponent’s Pokémon or that their Fast Attacks are performed a little late at the start of the battle.
 
 **Issue Status:**  Fixed in future release
 
@@ -78,3 +60,45 @@ New Pokémon may not appear to switch in after the previous Pokémon faints
 **Issue Description:** When a Pokémon faints during a battle in adverse network conditions, a new Pokémon will enter the battle. However, a visual issue may cause it to appear as though the previously fainted Pokémon is still in battle, even though the newly switched-in Pokémon’s Charged Attacks and HP will appear.
 
 **Issue Status:** Fixed in future release
+
+Rewards are not displayed after competing a friend battle
+
+**Issue Description:**  After successfully completing a battle with a friend, the rewards and Friendship level increase Trainers receive are not displayed. This is a visual issue only and Trainers can check the rewards they have earned in their Journal.
+
+**Issue Status:**  Fixed in future release
+
+Protect Shields may appear visually despite not being properly activated
+
+**Issue Description:**  When a Protect Shield is attempted to be activated too slowly or in adverse network conditions, a Protect Shield will only appear visually but not prevent any incoming damage. This is a visual issue only and the Protect Shield charge will not be consumed.
+
+**Issue Status:**  Fixed in future release
+
+A prompt to use a Protect Shield may appear when a Trainer’s opponent switches their Pokémon
+
+**Issue Description:**  Trainers may find that a prompt to use a Protect Shield becomes available when their opponent switches out their Pokémon despite no Charged Attack being activated. Please note, if Trainers tap to use this Protect Shield, it will only visually show a Protect Shield and will not shield any damage nor consume a Protect Shield charge.
+
+**Issue Status:**  Fixed in future release
+
+Stat changes from a Charged Attack may be delayed when both Trainers perform a Charged Attack at the same time
+
+**Issue Description:**  When both Trainers perform a Charged Attack at the same time, stat changes from these Charged Attacks may be delayed slightly.
+
+**Issue Status:**  Fixed in future release
+
+Battle may become unresponsive when performing a Charged Attack
+
+**Issue Description:**  When participating in a battle in adverse network conditions, Trainers may find that their battle becomes unresponsive when performing a Charged Attack.
+
+**Issue Status:** Resolved
+
+After a Pokémon faints, Trainers may be unable to switch their Pokémon
+
+**Issue Description:**  When a Trainer switches in a Pokémon after their previous Pokémon faints, they may be unable to switch to their other available Pokémon immediately.
+
+**Issue Status:**  Resolved
+
+Ties in a battle are being counted as losses
+
+**Issue Description:**  When a battle results in a tie, the tie will be recorded as a loss for both Trainers’ ratings.
+
+**Issue Status:**  Resolved
