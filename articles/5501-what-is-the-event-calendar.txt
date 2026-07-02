@@ -1,0 +1,15 @@
+---
+id: 5501
+title: What is the event calendar?
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/5501-what-is-the-event-calendar/
+---
+
+The  **event calendar**  is a page where Trainers can view current and upcoming Pokémon GO events. You can easily access it by tapping on the calendar icon at the bottom right of your Map View.
+
+![image](../data/images/8e1ff55d-5e45-4b02-941a-abda09cd2009.png)
+
+![image](../data/images/a4009c64-8c79-4e3e-8792-e6ee3f6448b7.png)
+
+Tapping on the calendar icon will show you a list of current and upcoming events. Tap on an event to view details such as event duration and event bonuses. When viewing an event’s details, you can also tap on  **Learn More**  to view the official blog page for the event or tap  **Copy Link**  to easily share details to invite your friends!
+
+Meetups around you can also be viewed by tapping on  **Join a meetup**  located at the bottom of the event calendar page. Tapping on this will take you to the Campfire map where you can view and join any meetups happening near you.
