@@ -84,21 +84,3 @@ Stat changes from a Charged Attack may be delayed when both Trainers perform a C
 **Issue Description:**  When both Trainers perform a Charged Attack at the same time, stat changes from these Charged Attacks may be delayed slightly.
 
 **Issue Status:**  Fixed in future release
-
-Battle may become unresponsive when performing a Charged Attack
-
-**Issue Description:**  When participating in a battle in adverse network conditions, Trainers may find that their battle becomes unresponsive when performing a Charged Attack.
-
-**Issue Status:** Resolved
-
-After a Pokémon faints, Trainers may be unable to switch their Pokémon
-
-**Issue Description:**  When a Trainer switches in a Pokémon after their previous Pokémon faints, they may be unable to switch to their other available Pokémon immediately.
-
-**Issue Status:**  Resolved
-
-Ties in a battle are being counted as losses
-
-**Issue Description:**  When a battle results in a tie, the tie will be recorded as a loss for both Trainers’ ratings.
-
-**Issue Status:**  Resolved
