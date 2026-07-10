@@ -1,0 +1,9 @@
+---
+id: 5519
+title: iOS 26 experiencing increased app crashes on older devices
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/5519-ios-26-experiencing-increased-app-crashes-on-older-devices/
+---
+
+**Issue description:**  Trainers on iOS 26 are experiencing increased rates of crashes on iPhone 13 and older. In the meantime, we have attempted to mitigate this issue by temporarily removing or downgrading some in-game elements--such as the post-battle trainer achievements screen and objects in the distance--to prevent app crashes.
+
+**Issue status:** Investigating.
