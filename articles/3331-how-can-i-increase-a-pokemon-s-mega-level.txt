@@ -23,3 +23,9 @@ For more details on what actions are required to increase your Pokémon’s Mega
 ![image](../data/images/a988b18b-d078-48b9-b493-da87fbbedd4b.png)
 
 ![image](../data/images/51d39c64-4615-4fdd-8145-2d56df5e60e5.png)
+
+## **FAQ**
+
+Q: Do I need to use Mega Energy to Mega Evolve each individual Pokémon even if I have Mega Evolved a Pokémon from the same species?
+
+A: Yes, each Pokémon requires Mega Energy to be used when first Mega Evolving that Pokémon even if you have already Mega Evolved a Pokémon from the same species.
