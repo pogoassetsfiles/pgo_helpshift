@@ -1,0 +1,8 @@
+---
+id: 5521
+title: Incubators unavailable for purchase in Brazil
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/5521-incubators-unavailable-for-purchase-in-brazil/
+---
+
+**Issue Description:** Incubators and Super Incubators are not available for purchase in Brazil, either individually, as part of item bundles, or as rewards in Reward Road, Event tickets or GO Pass Deluxe upgrades. Incubators can still be earned through gameplay.
+ **Issue Status:** Working as intended.
