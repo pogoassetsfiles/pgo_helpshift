@@ -17,7 +17,7 @@ While we work on fixing these issues, please try these tips to mitigate some of 
 * Avoid enabling  **“Auto-Join”**  for different Wi-Fi networks, as your device may switch networks during a battle and interrupt your connection.
 * Avoid playing in areas where the internet connection is unstable, such as on subways or underground.
 
-**Last updated** : July 2, 2026
+**Last updated** : July 17, 2026
 
 Charged Attacks may fail to start
 
@@ -61,7 +61,7 @@ New Pokémon may not appear to switch in after the previous Pokémon faints
 
 **Issue Status:** Fixed in future release
 
-Rewards are not displayed after competing a friend battle
+Rewards are not displayed after completing a friend battle
 
 **Issue Description:**  After successfully completing a battle with a friend, the rewards and Friendship level increase Trainers receive are not displayed. This is a visual issue only and Trainers can check the rewards they have earned in their Journal.
 
@@ -73,14 +73,26 @@ Protect Shields may appear visually despite not being properly activated
 
 **Issue Status:**  Fixed in future release
 
+The prompt to switch Pokémon may appear immediately after the active Pokémon faints
+
+**Issue Description:**  Typically, after a Trainer’s active Pokémon faints, the prompt to choose which Pokémon to switch in appears after a short interval. However, some Trainers may experience that this prompt appears immediately after their active Pokémon faints, resulting in accidentally tapping on the wrong Pokémon to switch in.
+
+**Issue Status:**  Fixed in future release
+
+Some Trainers may experience that their Trainer Battle has already started prior to when they enter the battle
+
+**Issue Description:**  When entering a Trainer Battle, some Trainers may find that the battle has already started. A few indications of this issue are that the battle starts immediately without the countdown timer appearing and that the Trainer’s active Pokémon has already taken some damage when entering the battle.
+
+**Issue Status:​​**  Fixed in future release
+
 A prompt to use a Protect Shield may appear when a Trainer’s opponent switches their Pokémon
 
 **Issue Description:**  Trainers may find that a prompt to use a Protect Shield becomes available when their opponent switches out their Pokémon despite no Charged Attack being activated. Please note, if Trainers tap to use this Protect Shield, it will only visually show a Protect Shield and will not shield any damage nor consume a Protect Shield charge.
 
-**Issue Status:**  Fixed in future release
+**Issue Status:**  Resolved
 
 Stat changes from a Charged Attack may be delayed when both Trainers perform a Charged Attack at the same time
 
 **Issue Description:**  When both Trainers perform a Charged Attack at the same time, stat changes from these Charged Attacks may be delayed slightly.
 
-**Issue Status:**  Fixed in future release
+**Issue Status:**  Resolved
