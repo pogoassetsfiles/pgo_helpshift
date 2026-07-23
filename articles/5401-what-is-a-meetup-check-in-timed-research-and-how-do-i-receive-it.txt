@@ -12,11 +12,8 @@ RSVP and check-in to official event Meetups or Meetups hosted by Community Ambas
 
 There are two ways to view nearby meetups:
 
-* **Via the Pokémon GO Map:**  Tap the  **green map icon**  near the right corner of your in-game map to access Campfire features directly. From here, you can zoom into your area to see active meetup markers.
 * **Via the event calendar:** Tap the  **event calendar icon**  near the bottom right corner of your in-game map to access the event calendar. Meetups around you can be viewed by tapping on Join a meetup located at the bottom of the event calendar page.
 * **Via the Campfire App:**  Open the standalone Campfire app to browse a list of local events or search for groups run by Community Ambassadors.
-
-![image](../data/images/6405be3b-d36b-498e-8a76-5832ed745f69.png)
 
 ![image](../data/images/16f1a224-6db1-47e7-81c4-9da955c1fd8e.png)
 
@@ -71,9 +68,3 @@ The CA also can confirm whether the correct event reward was set up for that eve
 **Please note** : If you have already claimed this Timed Research in the past 24 hours, you will not be able to receive it.
 
 If the steps above do not resolve the issue, please submit an in-game support ticket, and our support team may be able to assist with your request.
-
-**Why can’t I find the Meetup search or check-in feature in Pokémon GO?**
-
-If you’re using a child account, this feature may not be available, as some social features are restricted for child accounts.
-
-If you’re using an adult account and believe you should have access to this feature but don’t see it in your app, please contact [Campfire Support](https://niantic.helpshift.com/hc/faq/3519-how-to-contact-campfire-support/) for further assistance.
