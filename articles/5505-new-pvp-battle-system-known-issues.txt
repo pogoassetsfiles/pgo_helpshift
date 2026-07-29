@@ -84,15 +84,3 @@ Some Trainers may experience that their Trainer Battle has already started prior
 **Issue Description:**  When entering a Trainer Battle, some Trainers may find that the battle has already started. A few indications of this issue are that the battle starts immediately without the countdown timer appearing and that the Trainer’s active Pokémon has already taken some damage when entering the battle.
 
 **Issue Status:​​**  Fixed in future release
-
-A prompt to use a Protect Shield may appear when a Trainer’s opponent switches their Pokémon
-
-**Issue Description:**  Trainers may find that a prompt to use a Protect Shield becomes available when their opponent switches out their Pokémon despite no Charged Attack being activated. Please note, if Trainers tap to use this Protect Shield, it will only visually show a Protect Shield and will not shield any damage nor consume a Protect Shield charge.
-
-**Issue Status:**  Resolved
-
-Stat changes from a Charged Attack may be delayed when both Trainers perform a Charged Attack at the same time
-
-**Issue Description:**  When both Trainers perform a Charged Attack at the same time, stat changes from these Charged Attacks may be delayed slightly.
-
-**Issue Status:**  Resolved
