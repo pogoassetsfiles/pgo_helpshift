@@ -1,0 +1,26 @@
+---
+id: 5493
+title: What is the Explorer Gadget?
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/5493-what-is-the-explorer-gadget/
+---
+
+The  **Explorer Gadget**  is an in-game feature that allows you to attempt to catch by automatically throwing Pokéballs at nearby Pokémon and spin PokéStops when Pokémon GO is not actively open on your device.
+
+**Please note:**  The Explorer Gadget will not attempt to catch certain Pokémon, such as Pokémon that aren’t yet registered in your Pokédex. However, it will attempt to catch Pokémon with different forms if you have already caught one form of that Pokémon (for example, if you have caught a Pom-Pom Style Oricorio, the Explorer Gadget will still attempt to catch Baile Style, Sensu Style, and Pa'u Style Oricorios even if you haven't caught them yet).
+
+### How do I use the Explorer Gadget?
+
+Using the Explorer Gadget is simple. All you need to do is:
+
+* Tap on the Explorer Gadget icon at the top right of your Map View in Pokémon GO or find it in the Key Items section of your Item Bag.
+
+* **Please note**  that the Explorer Gadget icon in your Map view will not appear if you have an accessory device paired to Pokémon GO. Trainers with a paired accessory device can use the Explorer Gadget by selecting it in the Key Items section of your Item Bag as long as the paired accessory device is disconnected.
+* Tap  **Use**  in the Explorer Gadget window that pops up.
+
+Once you activate your Explorer Gadget, it will continue to attempt catching nearby Pokémon and spin nearby PokéStops for you while Pokémon GO is closed or not actively being used on your device. You also have the option to pause and resume the Explorer Gadget by tapping on the Explorer Gadget icon again.
+
+**Please note** : You must still explore the world while carrying your device for the Explorer Gadget to operate fully.
+
+You will be able to see a summary of what Pokémon were caught, how many Pokémon were caught, and how many PokéStops were spun once you launch Pokémon GO again. Pokémon caught by the Explorer Gadget will automatically be sorted from Newest to Oldest in the summary and will only show Pokémon caught with the Explorer Gadget.
+
+**Please note:** Currently, this feature is being tested in a limited rollout in select regions.
