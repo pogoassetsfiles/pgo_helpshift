@@ -17,15 +17,9 @@ While we work on fixing these issues, please try these tips to mitigate some of 
 * Avoid enabling  **“Auto-Join”**  for different Wi-Fi networks, as your device may switch networks during a battle and interrupt your connection.
 * Avoid playing in areas where the internet connection is unstable, such as on subways or underground.
 
-**Last updated** : July 30, 2026
+**Last updated** : August 7, 2026
 
 ## Open Issues
-
-Charged Attacks may cause unexpected visual issues
-
-**Issue Description:**  During Charged Attacks, some Trainers may experience unexpected visual issues, including but not limited to the camera being stuck on the active Pokémon.
-
-**Issue Status:**  Investigating
 
 Adverse network conditions may cause unexpected gameplay issues
 
@@ -33,29 +27,17 @@ Adverse network conditions may cause unexpected gameplay issues
 
 **Issue Status:** Investigating
 
+Battle may pause for a few seconds after completing a Charged Attack minigame
+
+**Issue Description:**  Trainers may find that, after completing a Charged Attack minigame, the battle may pause for a few seconds before the Charged Attack activates and that they are unable to perform any actions during this pause.
+
+**Issue Status:**  Investigating
+
 ## Fixed in future release
 
 Charged Attacks may fail to start
 
 **Issue Description:** Trainers may have difficulties deploying Charge Attacks due to Charged Attack buttons being unresponsive or bubbles failing to appear in time.
-
-**Issue Status:**  Fixed in future release
-
-Some Trainers may experience that their Trainer Battle has already started prior to when they enter the battle
-
-**Issue Description:**  When entering a Trainer Battle, some Trainers may find that the battle has already started. A few indications of this issue are that the battle starts immediately without the countdown timer appearing and that the Trainer’s active Pokémon has already taken some damage when entering the battle.
-
-**Issue Status:​​**  Fixed in future release
-
-When switching in a Pokémon, that Pokémon’s Fast Attack animation may appear
-
-**Issue Description:**  A Pokémon’s Fast Attack animation may visually appear when switching the Pokémon into battle. This is a visual issue only and the Fast Attack animation that appears during the switching process will not deal any damage.
-
-**Issue Status:**  Fixed in future release
-
-After using a Protect Shield, the shield visual effect may appear for subsequent Charged Attacks
-
-**Issue Description:**  Once a Trainer has used a Protect Shield to block an incoming Charged Attack, they may find that a Protect Shield visual effect will appear for subsequent Charged Attacks without actively deploying one. This is a visual issue only and the automatically appearing Protect Shields will not block any damage and will not consume any remaining Protect Shields.
 
 **Issue Status:**  Fixed in future release
 
@@ -71,12 +53,6 @@ After using a Charged Attack to knock out their opponent’s Pokémon, Trainers 
 
 **Issue Status:** Fixed in future release
 
-After a Trainer’s second Pokémon faints, the Charged Attack of the Pokémon switched in may activate immediately
-
-**Issue Description:**  When a Trainer’s last Pokémon is switched in after their previous Pokémon faints, the Charged Attack of the Pokémon switched in may activate immediately without the Trainer tapping on the Charged Attack button.
-
-**Issue Status:**  Fixed in future release
-
 Camera may briefly become choppy after blocking a Charged Attack with a Protect Shield
 
 **Issue Description:** When a Trainer uses a Protect Shield to block an incoming Charged Attack, the Camera may briefly become choppy when the Charged Attack is performed. This is a visual issue only and will not affect any aspects of the battle.
@@ -89,52 +65,58 @@ Attempting to switch Pokémon immediately after a battle starts may activate a F
 
 **Issue Status:**  Fixed in future release
 
+Charged Attacks may cause unexpected visual issues
+
+**Issue Description:**  During Charged Attacks, some Trainers may experience unexpected visual issues, including but not limited to the camera being stuck on the active Pokémon.
+
+**Issue Status:**  Fixed in future release
+
+Battle may be recorded as a loss when matchmaking fails with "Opponent has quit the battle"
+
+**Issue Description:**  Trainers may be incorrectly granted a loss if the matchmaking process fails with "Opponent has quit the battle"
+
+**Issue Status:**  Fixed in future release
+
+Charged Attack energy may reset when switching a Pokémon in
+
+**Issue Description:** When switching in a Pokémon that had previously charged up their Charged Attack, its Charged Attack energy may have reset.
+
+**Issue Status:**  Fixed in future release
+
+Camera may become locked in the wrong position during the battle
+
+**Issue Description:**  The Camera may start showing the opponent Pokémon’s perspective during the battle.
+
+**Issue Status:**  Fixed in future release
+
+After a Trainer’s second Pokémon faints, the last Pokémon switched in and its Charged Attack buttons may not visually appear
+
+**Issue Description:**  When a Trainer’s second Pokémon faints and their last Pokémon is switched in, the last Pokémon may not visually appear on the battlefield and the Charged Attack buttons may still show the previous fainted Pokémon’s Charged Attacks.
+
+**Issue Status:**  Fixed in future release
+
 ## Resolved
 
-Battle is recorded as a loss when opponent leaves the battle
+Some Trainers may experience that their Trainer Battle has already started prior to when they enter the battle
 
-**Issue Description:**  When a Trainer’s opponent leaves the battle, the Trainer might find that the battle was recorded as having been lost.
+**Issue Description:**  When entering a Trainer Battle, some Trainers may find that the battle has already started. A few indications of this issue are that the battle starts immediately without the countdown timer appearing and that the Trainer’s active Pokémon has already taken some damage when entering the battle.
 
-**Issue Status:**  Resolved
+**Issue Status:​​**  Resolved
 
-Trainers may experience a delay in being able to perform Fast Attack upon entering a battle
+When switching in a Pokémon, that Pokémon’s Fast Attack animation may appear
 
-**Issue Description:**  When participating in a battle in adverse network conditions, Trainers may find that they are unable to perform Fast Attacks until their Pokémon is first damaged by the opponent’s Pokémon or that their Fast Attacks are performed a little late at the start of the battle.
-
-**Issue Status:**  Resolved
-
-Camera may become locked onto a Trainer’s active Pokémon
-
-**Issue Description:**  Trainers may find that the camera is stuck on their active Pokémon for a few seconds after the battle has started.
+**Issue Description:**  A Pokémon’s Fast Attack animation may visually appear when switching the Pokémon into battle. This is a visual issue only and the Fast Attack animation that appears during the switching process will not deal any damage.
 
 **Issue Status:**  Resolved
 
-New Pokémon may not appear to switch in after the previous Pokémon faints
+After using a Protect Shield, the shield visual effect may appear for subsequent Charged Attacks
 
-**Issue Description:** When a Pokémon faints during a battle in adverse network conditions, a new Pokémon will enter the battle. However, a visual issue may cause it to appear as though the previously fainted Pokémon is still in battle, even though the newly switched-in Pokémon’s Charged Attacks and HP will appear.
-
-**Issue Status:** Resolved
-
-Rewards are not displayed after completing a friend battle
-
-**Issue Description:**  After successfully completing a battle with a friend, the rewards and Friendship level increase Trainers receive are not displayed. This is a visual issue only and Trainers can check the rewards they have earned in their Journal.
+**Issue Description:**  Once a Trainer has used a Protect Shield to block an incoming Charged Attack, they may find that a Protect Shield visual effect will appear for subsequent Charged Attacks without actively deploying one. This is a visual issue only and the automatically appearing Protect Shields will not block any damage and will not consume any remaining Protect Shields.
 
 **Issue Status:**  Resolved
 
-Protect Shields may appear visually despite not being properly activated
+After a Trainer’s second Pokémon faints, the Charged Attack of the Pokémon switched in may activate immediately
 
-**Issue Description:**  When a Protect Shield is attempted to be activated too slowly or in adverse network conditions, a Protect Shield will only appear visually but not prevent any incoming damage. This is a visual issue only and the Protect Shield charge will not be consumed.
-
-**Issue Status:**  Resolved
-
-The prompt to switch Pokémon may appear immediately after the active Pokémon faints
-
-**Issue Description:**  Typically, after a Trainer’s active Pokémon faints, the prompt to choose which Pokémon to switch in appears after a short interval. However, some Trainers may experience that this prompt appears immediately after their active Pokémon faints, resulting in accidentally tapping on the wrong Pokémon to switch in.
-
-**Issue Status:**  Resolved
-
-After switching a Pokémon in, the Pokémon may be unable to use attacks
-
-**Issue Description:** After using the switch menu on the right to switch a Pokémon in immediately after the active Pokémon faints, the Charged Attack buttons may not appear for the switched-in Pokémon and it may also be unable to use its Fast Attacks.
+**Issue Description:**  When a Trainer’s last Pokémon is switched in after their previous Pokémon faints, the Charged Attack of the Pokémon switched in may activate immediately without the Trainer tapping on the Charged Attack button.
 
 **Issue Status:**  Resolved
