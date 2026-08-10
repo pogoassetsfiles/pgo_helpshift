@@ -16,7 +16,7 @@ Note that Trainers logging in using kids accounts via Pokémon Trainer Central o
 
 Once you have created a lobby, other Trainers will have up to 15 minutes to either scan the QR Code or enter the Party Code to join the Party. As other Trainers join, you will see their Trainer profile pictures appear on your screen.
 
-Once you have at least 1 other Trainer in your Party, tap the  **Start**  button to begin Party Play and choose a  **Party Challenge** , each presenting a different way for you and your Party to explore your surroundings as you work towards completing them. Different Party Challenges also yield a different set of rewards.
+Once you have at least 1 other Trainer in your Party, tap the  **Start**  button to begin Party Play.
 
 After you tap Start, the Trainer avatars for other members of your Party will appear on your Map View, and their profiles will appear along the top of your screen.
 
