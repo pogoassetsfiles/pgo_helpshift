@@ -17,7 +17,7 @@ Once your Party Play session has begun, your Trainer avatar will appear on your 
 * Tap  **General**
 * Scroll to the  **Party Play**  section and tap  **Share Location with Party**  to toggle this feature on or off.
 
-During your Party Play session, the other members of your Party will be able to see your contributions towards the Party Challenge, as well as other gameplay metrics, from the Party Tab. You will stop sharing your approximate actual location when the Party ends.
+During your Party Play session, the other members of your Party will be able to see your contributions from the Party Tab. You will stop sharing your approximate actual location when the Party ends.
 
 **Kids Accounts and Party Play**
 
