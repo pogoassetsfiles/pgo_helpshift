@@ -6,14 +6,6 @@ url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4171-how-to-use-party-
 
 Once you and your Party have started your Party Play session, there are a number of things that you can do together.
 
-### **Party Challenges:**
-
-When you first begin your Party Play session, you have the opportunity to select from a number of predetermined Party Challenges, each of which presents a different way for you and your Party to explore your surroundings as you work towards completing them. Each Party Challenge also yields a different set of rewards.
-
-Some of these challenges may include spinning PokéStops or Gyms or catching a certain number of Pokémon. You can check on the progress of your Party Challenge at any time by either tapping on the Party Play button that appears below your Party’s Trainer avatar images along the top of the Map View. You can also view your Challenge Progress by opening the Party tab.
-
-When a Party Challenge is completed, the host will see a pop-up prompting them to choose another one.
-
 ### **Challenge Raid Battles**
 
 While you’re in a Party Play session, you and the other Trainers in your Party can challenge a Raid Boss together. Enter a Raid Battle the same way that you otherwise would.
@@ -23,12 +15,6 @@ Other Trainers who are not part of your Party may also join the same Raid Battle
 The Party Power is a Raid bonus that fills up as members of your Party attack the Raid Boss. Once the Party Power bonus is full, your next Charge Attack will receive a special boost. You can see the Party Power button and your progress towards achieving the bonus in the bottom left corner of your Raid Battle.
 
 Note that the Party Power bonus is applied to a Trainer and not to their active Pokémon, so if a Pokémon in your party faints, it will be applied to the next Pokémon.
-
-### **Seeing your Party’s progress and achievements**
-
-While you and your Party are making progress towards your Party Challenge, you can see both your individual contributions as well as the contributions of the other members of your Party by tapping on the Party Tab.
-
-You will also see a summary of your contributions and progress towards completing your Party Challenge if you leave the Party, are the last member of your Party, or if your Party session timer expires.
 
 ### **Sharing Items with your Party**
 
