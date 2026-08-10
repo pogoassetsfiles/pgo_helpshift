@@ -20,11 +20,9 @@ Note that a maximum of 4 Trainers, including the host, can be in any Party. If y
 
 Note that Trainers logging in using kids’ accounts via Pokémon Trainer Central or Niantic Kids can only join a Party if they are friends with the host of the Party and there are at least 2 other Trainers in the party. Learn more about kids’ accounts and Party Play.
 
-The host is able to start Party Play and select a Party Challenge once at least two other Trainers have joined the Party. Once they have started, the Trainer avatars for other members of your Party will appear on your Map View, and their profiles will appear along the top of your screen.
+The host is able to start Party Play once at least two other Trainers have joined the Party. Once they have started, the Trainer avatars for other members of your Party will appear on your Map View, and their profiles will appear along the top of your screen.
 
 After Party Play has started, make sure to stay near the host as you explore the real world. If you get too far away from the host, you will see a warning message and could be removed from the Party.
-
-While you are in the Party, you can tap on the Party Play button below the Trainer icons along the top of your screen to see your Party’s progress against the Party Challenge. You can also see this information on the Party tab.
 
 Your Party can last up to 3 hours, or until you end your Party Play session. You will receive a 10-minute warning as you approach the time limit.
 
@@ -36,4 +34,4 @@ To leave a Party:
 
 After you leave a Party, the other Trainers will see a message indicating that you’ve left. If you leave a Party accidentally, you can rejoin the Party the same way you did initially, by scanning the QR Code or entering the Party Code.
 
-Once your Party Play session has ended, or if you leave the party, you will see a summary screen recapping your and your Party’s achievements during the Party Play session, including a breakdown of each Trainer’s contributions to the Party. Note that if you leave a Party early, you will not receive the Party Challenge rewards.
+Once your Party Play session has ended, or if you leave the party, you will see a summary screen recapping your and your Party’s achievements during the Party Play session, including a breakdown of each Trainer’s contributions to the Party.
