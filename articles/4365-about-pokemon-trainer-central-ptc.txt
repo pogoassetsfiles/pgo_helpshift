@@ -6,7 +6,7 @@ url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4365-about-pokemon-tra
 
 The  **Pokémon Trainer Central (PTC)** is a service provided by The Pokémon Company International that connects you to other Pokémon games and apps, including Pokémon GO. Creating a PTC account will also allow you to receive the latest Pokémon news and compete in live competition.
 
-Navigate to club.pokemon.com to login to an existing PTC account or create a new PTC account and verify your age and country/region.
+Navigate to trainer.pokemon.com to login to an existing PTC account or create a new PTC account and verify your age and country/region.
 
 Please note that your PTC screen name or account name may not necessarily be the same as your Pokémon GO Trainer Nickname.
 
@@ -16,7 +16,7 @@ Trainers can use a PTC account as an authentication method to log into Pokémon 
 
 To connect a PTC account to Pokémon GO as a login method:
 
-* Create or log into your PTC account at [club.pokemon.com](https://club.pokemon.com).
+* Create or log into your PTC account at [trainer.pokemon.com](https://trainer.pokemon.com/start).
 * Open the Pokémon GO app.
 * In Map View, tap the Main Menu
 * At the top right, tap  **Settings**
