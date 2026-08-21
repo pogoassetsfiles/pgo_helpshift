@@ -70,4 +70,4 @@ Please note that, if you are playing multiple Niantic games on the same device, 
 
 **Niantic Kids and Online Status**
 
-Trainers with child accounts will not be shown as online, even if social permissions are granted through the Niantic Kids Parent Portal or Pokémon Trainer Club website.
+Trainers with child accounts will not be shown as online, even if social permissions are granted through the Niantic Kids Parent Portal or Pokémon Trainer Central website.
