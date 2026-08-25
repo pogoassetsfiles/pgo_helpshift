@@ -6,7 +6,7 @@ url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/5505-new-pvp-battle-sy
 
 Here is a list of issues related to the new PvP battle system for GO Battle League that are currently being investigated by our engineering team. This list will be updated regularly, and issues will be added and removed as they are discovered and resolved.
 
-Please note that this is not a comprehensive list of all issues we are aware of or working to fix. You can find the list of known issues unrelated to GO Battle League [here](https://niantic.helpshift.com/hc/section/180-release-notes-known-issues/).
+Please note that this is not a comprehensive list of all issues we are aware of or working to fix. You can find the list of known issues unrelated to GO Battle League [here](https://niantic.helpshift.com/hc/en/6-pokemon-go/section/180-release-notes-known-issues/).
 
 To report a bug that isn’t listed here, or get one on one support, please submit a ticket in-app under the Settings menu, or see [our article](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2030-how-to-contact-support/?p=web&s=get-in-touch&f=how-to-contact-support) on how to best contact us for different issues.
 
@@ -15,7 +15,7 @@ While we work on fixing these issues, please try these tips to mitigate some of 
 * Avoid enabling  **“Auto-Join”**  for different Wi-Fi networks, as your device may switch networks during a battle and interrupt your connection.
 * Avoid playing in areas where the internet connection is unstable, such as on subways or underground.
 
-**Last updated** : August 13, 2026
+**Last updated** : August 24, 2026
 
 ## Open Issues
 
@@ -25,47 +25,11 @@ Adverse network conditions may cause unexpected gameplay issues
 
 **Issue Status:** Investigating
 
-Battle may pause for a few seconds after completing a Charged Attack minigame
-
-**Issue Description:**  Trainers may find that, after completing a Charged Attack minigame, the battle may pause for a few seconds before the Charged Attack activates and that they are unable to perform any actions during this pause.
-
-**Issue Status:**  Investigating
-
 ## Fixed in future release
-
-Charged Attacks may fail to start
-
-**Issue Description:** Trainers may have difficulties deploying Charge Attacks due to Charged Attack buttons being unresponsive or bubbles failing to appear in time.
-
-**Issue Status:**  Fixed in future release
-
-Camera may briefly become choppy after blocking a Charged Attack with a Protect Shield
-
-**Issue Description:** When a Trainer uses a Protect Shield to block an incoming Charged Attack, the Camera may briefly become choppy when the Charged Attack is performed. This is a visual issue only and will not affect any aspects of the battle.
-
-**Issue Status:**  Fixed in future release
-
-Attempting to switch Pokémon immediately after a battle starts may activate a Fast Attack instead
-
-**Issue Description:**  When a Trainer taps on the switch menu to switch their active Pokémon immediately after the battle starts, a Fast Attack may be activated instead of the switch. This issue only occurs immediately after the battle has started so subsequent attempts to switch Pokémon will behave normally.
-
-**Issue Status:**  Fixed in future release
 
 Battle may be recorded as a loss when matchmaking fails with "Opponent has quit the battle"
 
 **Issue Description:**  Trainers may be incorrectly granted a loss if the matchmaking process fails with "Opponent has quit the battle"
-
-**Issue Status:**  Fixed in future release
-
-Charged Attack energy may reset when switching a Pokémon in
-
-**Issue Description:** When switching in a Pokémon that had previously charged up their Charged Attack, its Charged Attack energy may have reset.
-
-**Issue Status:**  Fixed in future release
-
-Camera may become locked in the wrong position during the battle
-
-**Issue Description:**  The Camera may start showing the opponent Pokémon’s perspective during the battle.
 
 **Issue Status:**  Fixed in future release
 
@@ -75,22 +39,52 @@ After a Trainer’s second Pokémon faints, the last Pokémon switched in and it
 
 **Issue Status:**  Fixed in future release
 
+After a Trainer’s second Pokémon faints, the Charged Attack of the Pokémon switched in may activate immediately
+
+**Issue Description:**  When a Trainer’s last Pokémon is switched in after their previous Pokémon faints, the Charged Attack of the Pokémon switched in may activate immediately without the Trainer tapping on the Charged Attack button.
+
+**Issue Status:**  Fixed in future release
+
+Battle may pause for a few seconds after completing a Charged Attack minigame
+
+**Issue Description:**  Trainers may find that, after completing a Charged Attack minigame, the battle may pause for a few seconds before the Charged Attack activates and that they are unable to perform any actions during this pause.
+
+**Issue Status:**  Fixed in Future Release
+
+Unintended Fast Attack may activate when switching a Pokémon in
+
+**Issue Description:**  If a Trainer taps on the switch menu on the side rapidly, an unintended Fast Attack may activate after the Pokémon is switched in.
+
+**Issue Status:** Fixed in future release
+
 ## Resolved
 
-Stat changes from a Charged Attack may not apply immediately
+Charged Attacks may fail to start
 
-**Issue Description:**  After a Pokémon performs a Charged Attack, stat changes that would lower that Pokémon’s stats may not be applied immediately after the Charged Attack.
+**Issue Description:** Trainers may have difficulties deploying Charge Attacks due to Charged Attack buttons being unresponsive or bubbles failing to appear in time.
 
-**Issue Status:** Resolved
+**Issue Status:**  Resolved
 
-After using a Charged Attack to knock out their opponent’s Pokémon, Trainers may experience a brief delay in switching their Pokémon
+Camera may briefly become choppy after blocking a Charged Attack with a Protect Shield
 
-**Issue Description:**  After a Trainer knocks out their opponent’s Pokémon with a Charged Attack, they are unable to immediately switch out their Pokémon.
+**Issue Description:** When a Trainer uses a Protect Shield to block an incoming Charged Attack, the Camera may briefly become choppy when the Charged Attack is performed. This is a visual issue only and will not affect any aspects of the battle.
 
-**Issue Status:** Resolved
+**Issue Status:**  Resolved
 
-Charged Attacks may cause unexpected visual issues
+Attempting to switch Pokémon immediately after a battle starts may activate a Fast Attack instead
 
-**Issue Description:**  During Charged Attacks, some Trainers may experience unexpected visual issues, including but not limited to the camera being stuck on the active Pokémon.
+**Issue Description:**  When a Trainer taps on the switch menu to switch their active Pokémon immediately after the battle starts, a Fast Attack may be activated instead of the switch. This issue only occurs immediately after the battle has started so subsequent attempts to switch Pokémon will behave normally.
+
+**Issue Status:**  Resolved
+
+Charged Attack energy may reset when switching a Pokémon in
+
+**Issue Description:** When switching in a Pokémon that had previously charged up their Charged Attack, its Charged Attack energy may have reset.
+
+**Issue Status:**  Resolved
+
+Camera may become locked in the wrong position during the battle
+
+**Issue Description:**  The Camera may start showing the opponent Pokémon’s perspective during the battle.
 
 **Issue Status:**  Resolved
