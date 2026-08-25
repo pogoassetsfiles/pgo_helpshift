@@ -1,0 +1,10 @@
+---
+id: 5547
+title: Certain Pokémon did not learn their featured attacks
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/5547-certain-pokemon-did-not-learn-their-featured-attacks/
+---
+
+**Issue description:**  During the PokémonXP & 2026 Pokémon World Championships event, some Pokémon did not learn their featured attacks as expected.
+
+**Issue status:** Resolved
+If your Pokémon was affected, please contact us through in-game support.
