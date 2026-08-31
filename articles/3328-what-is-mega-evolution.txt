@@ -4,11 +4,11 @@ title: What is Mega Evolution?
 url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3328-what-is-mega-evolution/
 ---
 
-Unlikehttps://niantic.helpshift.com/hc/en/6-pokemon-go/faq/100-evolving-your-pokemon/[evolving your Pokémon](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/100-evolving-your-pokemon/), which is permanent,  **Mega Evolution**  temporarily transforms your Pokémon, changing their appearance, improving their performance in battle through a significant boost in stats, and offering other unique benefits. You can tell if a Pokémon is eligible for Mega Evolution if you see a “Mega Evolve” button and “Mega Energy” on their summary page.
+Unlike [evolving your Pokémon](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/100-evolving-your-pokemon/), which is permanent,  **Mega Evolution**  temporarily transforms your Pokémon, changing their appearance, improving their performance in battle through a significant boost in stats, and offering other unique benefits. You can tell if a Pokémon is eligible for Mega Evolution if you see a “Mega Evolve” button and “Mega Energy” on their summary page.
 
 ![image](../data/images/3731f939-7cbe-490e-b0ed-757268d48c94.png)
 
-Mega Evolving a Pokémon may alsohttps://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2132-type-effectiveness-in-battle/[change their type](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2132-type-effectiveness-in-battle/). For example, Mega Charizard X is a Fire and Dragon-type Pokémon, while Charizard is a Fire and Flying-type.
+Mega Evolving a Pokémon may also [change their type](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2132-type-effectiveness-in-battle/). For example, Mega Charizard X is a Fire and Dragon-type Pokémon, while Charizard is a Fire and Flying-type.
 
 Certain Pokémon that can Mega Evolve to Super Max Level can even unlock an additional Charged Attack to use during Raid Battles and Trainer Battles, giving them up to three possible Charged Attacks to utilize during the battle.
 
