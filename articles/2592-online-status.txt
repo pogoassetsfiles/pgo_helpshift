@@ -1,0 +1,23 @@
+---
+id: 2592
+title: Online Status
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2592-online-status/
+---
+
+Your  **online status**  lets your friends know when you are available for Trainer Battles or to meet up for Raid Battles. When you set yourself online, you can also see any of your friends who’ve also set themselves online.
+
+While online, you’ll see a green dot next to your Trainer Profile image on the Map View, above your Friend List when looking at your Trainer Profile, and at the top of your Friend List.
+
+[![image](../data/images/c04da591-ec76-4bc0-9920-32301dc2d676-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/c04da591-ec76-4bc0-9920-32301dc2d676.png)
+
+Note that you may still be able to receive Remote Raid Invites even if your Online Status is set to “Offline.“
+
+### How do I control my online status?
+
+You can change your online status from your Friend List. Just tap the image of your Trainer to toggle between online and offline. Your online status will display to your friends who have also set themselves online.
+
+Please note that, if you are playing multiple Niantic games on the same device, your online status is only reflected in the game that you are actively playing.
+
+### Niantic Kids and Online Status
+
+Trainers with child accounts will not be shown as online, even if social permissions are granted through the Niantic Kids Parent Portal or Pokémon Trainer Central website.

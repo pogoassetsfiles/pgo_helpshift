@@ -1,0 +1,31 @@
+---
+id: 53
+title: What are Weather Boosts?
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/53-what-are-weather-boosts/
+---
+
+Explore the outdoors with an experience that matches the real-world weather!
+
+Pokémon GO responds to the real-world weather conditions around you. Weather changes cause certain Pokémon types to appear more frequently, have more powerful moves in battle, and give extra Stardust when caught.
+
+[![image](../data/images/a065c35a-9f67-4be9-a390-19a9961acc96.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/e0cb0cdb-78eb-4bf9-b277-06422895b7e6.png)
+
+As you search for Pokémon, the current weather conditions appear visually in Map View. You can also tell which weather conditions are in effect by viewing the weather indicator icon in the top right corner of the screen. Touch the icon to see which Pokémon types are boosted by the weather outside.
+
+Don’t get rid of your favorite weather app. The weather information in Pokémon GO might occasionally be incorrect or unavailable at some times or in some places. We don’t want you to get caught in the rain without an umbrella.
+
+## Catching Pokémon with Weather Boosts
+
+Certain Pokémon will appear more frequently in weather conditions that correspond to their type. For example, you’re more likely to see a Water-type Pokémon, like Squirtle or Magikarp, during rainfall. These Pokémon also tend to have higher CP and perform better in battle. As an added bonus, you will receive extra Stardust when you catch a Pokémon that is boosted by the current weather conditions.
+
+## Battling Pokémon with Weather Boosts
+
+Move types will be more effective when performed during certain conditions. For example, Charizard with the Fire Spin quick move will be more powerful in battles on sunny days. You can view which moves are enhanced by viewing your Pokémon’s summary.
+
+[![image](../data/images/bf32b0a0-bc89-411a-b4d8-ab118ecaae36.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/09336d6d-ca4f-463b-a813-8f746f96ed0e.png)
+
+## Weather Conditions and Boosted Types
+
+##
+
+Weather conditionsBoosted types [![image](../data/images/4e9058ac-e0a1-4b21-a44b-5ca472f2bcba-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/4e9058ac-e0a1-4b21-a44b-5ca472f2bcba.png)[![image](../data/images/fc31ec3a-320e-4502-83c5-42b65f512eb0-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/fc31ec3a-320e-4502-83c5-42b65f512eb0.png)Sunny/clearGrass, Fire, Ground [![image](../data/images/dd618805-13eb-4723-8c0a-3506eb91abca-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/dd618805-13eb-4723-8c0a-3506eb91abca.png)RainyWater, Electric, Bug [![image](../data/images/a2aa9073-6e9e-483e-83b4-a51f38262f43-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/a2aa9073-6e9e-483e-83b4-a51f38262f43.png)Partly cloudyNormal, Rock [![image](../data/images/91643719-33a5-4752-80c8-a6b4316fb7b7-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/91643719-33a5-4752-80c8-a6b4316fb7b7.png)CloudyFairy, Fighting, Poison [![image](../data/images/59eeb50f-2f5b-40fc-be99-f8af1c0e5cd2-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/59eeb50f-2f5b-40fc-be99-f8af1c0e5cd2.png)WindyFlying, Dragon, Psychic [![image](../data/images/837dd513-e693-42b1-b47a-0888e28a2d01-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/837dd513-e693-42b1-b47a-0888e28a2d01.png)SnowIce, Steel [![image](../data/images/10a63de6-bbe7-4236-a8a6-a2ebb9877acc-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/10a63de6-bbe7-4236-a8a6-a2ebb9877acc.png)FogDark, Ghost

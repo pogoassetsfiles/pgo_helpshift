@@ -1,0 +1,24 @@
+---
+id: 2191
+title: What is Niantic Kids?
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2191-what-is-niantic-kids/
+---
+
+**Niantic Kids**  is a login method for Niantic products designed to obtain parental consent and keep children’s personal information secure when they access our games. This product is ESRB Privacy Certified and certified by the kidSAFE Seal Program.
+
+As a parent or legal guardian, you can register with Niantic Kids to manage your child’s privacy via the [parent portal](https://parents.nianticlabs.com/). The portal will give parents the tools to review and approve permissions for their children’s accounts, including:
+
+* Access to device GPS and location
+* Friends & social related features (like sending & receiving in-game gifts)
+* Sponsored content and advertisements
+* Shared AR Experiences
+
+Parents or legal guardians will have options to control what personal information Niantic collects from their child, and they will be informed of any new requests to review and approve them.
+
+#### **We automatically enforce parental permissions for children**
+
+When a user first opens one of our apps appropriate for kids, they are asked to provide their birthday. If they are under the age of 13*, we disable non-child-friendly login options and instead display the Niantic Kids login method. Tap on the Niantic Kids option to create a child account. Children will need to provide their parent’s or legal guardian’s email address so that we can get their permission before they can play the game.
+
+To learn more about the Niantic Kids platform and its parental controls, please visit our [help center](https://parents.nianticlabs.com/faq/).
+
+More resources for parents about Niantic Kids and Niantic Apps, please see the [Niantic Parent Guide](https://nianticlabs.com/parents).

@@ -1,0 +1,7 @@
+---
+id: 1015
+title: Terms of Service
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/1015-terms-of-service/
+---
+
+[Terms of Service](https://www.nianticlabs.com/terms/)

@@ -1,0 +1,11 @@
+---
+id: 5406
+title: Why am I not receiving Link Charges from Research or task rewards?
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/5406-why-am-i-not-receiving-link-charges-from-research-or-task-rewards/
+---
+
+Trainers can only hold up to 600 Link Charges at a time. If you are close to or have reached this limit, you will not be able to receive any amount of Link Charges that would exceed it.
+
+Please spend enough Link Charges to free up enough space before claiming additional rewards.
+
+![image](../data/images/9ee41b73-9b43-4ac8-9269-3c77210294a6.png)
