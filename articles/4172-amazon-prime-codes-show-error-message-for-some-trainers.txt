@@ -1,0 +1,8 @@
+---
+id: 4172
+title: Amazon Prime codes show error message for some Trainers
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/4172-amazon-prime-codes-show-error-message-for-some-trainers/
+---
+
+**Issue description:** Some Trainers see an error message when trying to claim an Amazon Prime code.
+ **Issue status:** Investigating. Changing your web browser or device will resolve this issue. If you are using a VPN and seeing an error message, please try redeeming with the VPN disabled.

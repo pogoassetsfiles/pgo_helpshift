@@ -1,0 +1,56 @@
+---
+id: 2852
+title: The Today View
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2852-the-today-view/
+---
+
+The Today View is a page where Trainers can check out the information that is relevant to what’s happening right now.
+
+To see the Today View, tap the Binoculars[![image](../data/images/2dda0472-adfa-42d0-8b46-cea41feb043c-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/2dda0472-adfa-42d0-8b46-cea41feb043c-t.png)at the bottom right corner of the Map View.
+
+On a typical day, the Today View will display the following sections:
+
+### Today
+
+This section presents information that is helpful to reference on a daily basis.
+
+* **Field Research Tasks and Research Breakthrough Progress:**  This section will contain any Field Research Tasks that you have received and your progress towards receiving your Research Breakthrough. Learn more about [Types of Research](https://niantic.helpshift.com/hc/faq/45-types-of-research/).
+ [![](../data/images/2180cafb-a5e0-45ef-996f-ddfee5a7765b.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/2180cafb-a5e0-45ef-996f-ddfee5a7765b.jpg)
+* **Happening Now:** This section will show any information around events that are currently live, how long they last, and links to the associated blog post.
+ [![](../data/images/3bd76874-85ed-411d-9c6c-3953d07b1d0c.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/3bd76874-85ed-411d-9c6c-3953d07b1d0c.jpg)
+* **Daily Activities:**  Here you can see the current state of your current gameplay:
+
+* **PokéCoins Earned**  - This section displays how many PokéCoins you've earned within the day. [![](../data/images/7384d73b-5791-4a01-80e5-cae949127841.jpg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/7384d73b-5791-4a01-80e5-cae949127841.jpg)
+
+* * **Pokémon in Gyms**  - This section displays the health of each of your Pokémon [defending a Gym](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/383-earning-the-defender-bonus/) and how long they’ve been there.
+
+![image](../data/images/d2aa54dd-dcb4-4f92-af88-c919f9dd889c-2t.png)
+* **Pokémon at Power Spots**  - This section will display any Pokémon that you have stationed at Power Spots to assist other Trainers in Max Battles. You will also see how long the Pokémon has been stationed there. Tap the Pokémon to see more details and recall your Pokémon.
+ [![](../data/images/b83806ff-0fc7-42f9-bb51-17c0516d6662.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/b83806ff-0fc7-42f9-bb51-17c0516d6662.png)
+
+* * **Streaks**  - This section displays your current [Daily Spin and Daily Catch streaks](https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/105-daily-bonuses/). You can earn bonuses for catching Pokémon or visiting PokéStops each day and earn larger bonuses for completing these activities multiple in a row. Your progress resets when you hit 7 days in a row, so reach 7-day streaks for each to earn the best possible rewards.
+[![image](../data/images/49f6e3c2-e647-4e0c-a56b-ada3b5d8c5b4-2t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/49f6e3c2-e647-4e0c-a56b-ada3b5d8c5b4.png)
+* **Pokémon in Showcases**  - This section displays any Pokémon entered into [PokéStop Showcases](https://niantic.helpshift.com/hc/faq/4142-what-is-a-pokestop-showcase-and-how-can-i-be-featured/) and your current standing.
+  [![](../data/images/4b8f287b-24e6-4437-892d-1ff28c318078.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/4b8f287b-24e6-4437-892d-1ff28c318078.png) https://d2duuy9yo5pldo.cloudfront.net/niantic/69137fd8-9315-4f0d-a44d-28ac6e910ac9.jpeg
+* **Pokémon in Hyper Training**  - This section will display any Pokémon currently undergoing Hyper Training as well as the current tasks, progress towards completing these tasks and the total amount of time remaining for Hyper Training for that specific Pokémon.
+ [![](../data/images/1ed343bb-20c5-4776-afd5-8686dc666efc.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/1ed343bb-20c5-4776-afd5-8686dc666efc.png)
+
+### Events
+
+This section showcases information that will change with the Season or the currently active in-game event. If there are no upcoming or active events, this tab may appear empty and direct you to the Official Blog.
+
+* **Upcoming**   **Events**  - This section displays news related to upcoming events, limited-time offers, feature updates, and more along with links to learn more.
+ [![](../data/images/e09a3785-c8ec-429a-a5c6-53ecc89aef47.jpeg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/e09a3785-c8ec-429a-a5c6-53ecc89aef47.jpeg)
+* **Global Challenge**  - During Special Events, like Pokémon GO Fest or Pokémon GO Tour, you may also see currently active Global Challenges, Timed Bonuses and you and your Friends’ progress towards completing the Global Challenge.
+ [![](../data/images/f04059a6-5530-42f8-934f-f5576ea21c8d.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/f04059a6-5530-42f8-934f-f5576ea21c8d.png)
+* **Collection Challenges**  - Certain events may feature different  **Collection Challenges** , sets of specific Pokémon to collect in order to earn rewards. The Events tab will show any active Collection Challenges, rewards, as well as your progress towards completing them.
+
+![image](../data/images/ndlycncqvta5j7higzkfuvxefk95zefnx_eewcwjpkvgtxwoxhapd5opfx0rhqzqymdthk67sxk2zbbvq0figovrtwp0cuv3t0kklm4b8xti7c9giepkcacuuht0-ccrgqo9ojgvtt-uzygk6al5qqk.png)
+* **Timed Research:** The Events tab is also where you can find any [Timed Research Tasks](https://niantic.helpshift.com/hc/faq/45-types-of-research/#timed-research) that are currently live.
+ [![](../data/images/ed73d0e0-33df-42c5-a19e-c1e3a44a1361.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/ed73d0e0-33df-42c5-a19e-c1e3a44a1361.png)
+
+### Special
+
+The  **Special**  tab is where you can find all of your active and completed [Special Research](https://niantic.helpshift.com/hc/faq/45-types-of-research/#special-research) tasks as well as a list of Special Research that you have completed in the past. New Special Research will be added to this tab automatically, however completing a Special Research page will move that specific Special Research to the top of this page.
+
+[![](../data/images/24dd448b-fcd4-45a2-83c0-488e77a39d4b.jpeg)](https://d2duuy9yo5pldo.cloudfront.net/niantic/24dd448b-fcd4-45a2-83c0-488e77a39d4b.jpeg)

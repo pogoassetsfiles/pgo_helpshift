@@ -1,0 +1,29 @@
+---
+id: 3518
+title: How do I delete my Pokémon GO account?
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3518-how-do-i-delete-my-pokemon-go-account-1656453288/
+---
+
+You can request deletion of your game account to completely and permanently remove all of its game data. Deletion requests can be initiated through the app or by submitting a request form. Be mindful that all verified deletion requests may take several weeks to process and are irreversible once completed.
+
+**Note:**  If you request the deletion for your game account linked to Niantic Wayfarer, your deletion request will include data submitted to the Wayfarer program via this game account. If you contribute to Wayfarer via another Niantic game, these contributions will be unaffected and you will continue to be able to access the Wayfarer portal via the eligible account associated with this game.
+
+## How to start the deletion process from the Pokémon GO app
+
+Sign in to the app with the game account you want to delete, then navigate to the Pokémon GO app Settings.
+
+![image](../data/images/8c8b375b-9121-460b-9385-42e285b4db59.png)
+
+![image](../data/images/89ac4475-c422-4665-bf66-6f82c5f0cfab.png)
+
+![image](../data/images/4080f015-e3d0-4b9c-9cea-eac89c733d01.png)
+
+**Reminder:** Once you confirm account deletion, this action cannot be undone.
+
+## How to contact us and request deletion
+
+If you are unable to start the deletion process from the app, please [contact us by using this form](https://niantic.helpshift.com/hc/app/6-pokemon-go/contact-us/) and select "Delete My Account” from the 'Issue Category' dropdown.
+
+Be sure to provide the correct player name and have access to the email address associated with the account so you can respond to our email and confirm your deletion request. We are unable to process requests without verifying this information.
+
+**Reminder:** Once you confirm account deletion, this action cannot be undone.

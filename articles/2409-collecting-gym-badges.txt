@@ -1,0 +1,20 @@
+---
+id: 2409
+title: Collecting Gym Badges
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/2409-collecting-gym-badges/
+---
+
+**Gym Badges**  are recognition of how much you've interacted with particular Gyms—through battling, defending, or feeding Pokémon treats.
+
+[![image](../data/images/c5f56f1f-aa9f-43c9-bf30-bffca3f30b2d-t.png)](https://d2duuy9yo5pldo.cloudfront.net/niantic/c5f56f1f-aa9f-43c9-bf30-bffca3f30b2d-t.png)
+
+**Badges have four tiers** : Basic, Bronze, Silver, and Gold. You’ll unlock new tiers as you interact more with the Gyms. As a reward for your frequent interactions with a Gym, your Badge will earn you bonus items when spinning the Photo Disc.
+
+ **To view your Badges:**
+
+* In Map View, tap your  **Trainer Profile**  picture.
+* Scroll down to the  **Gym Badge**  section.
+* Tap the  **List**  button to see a full listing of all your Badges.
+* Tap any Badge to view details about your interactions with the Gym, including your progress towards unlocking a higher tier.
+
+You can also view all your Badges displayed on the globe using the Badge Map button at the bottom left corner of the Gym Badge list.

@@ -1,0 +1,9 @@
+---
+id: 5523
+title: Purchased avatar items appearing as unpurchased in Shop Inventory
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/5523-purchased-avatar-items-appearing-as-unpurchased-in-shop-inventory/
+---
+
+**Issue description:** Some Trainers reporting that previously purchased avatar items are appearing in the Shop inventory as unpurchased.
+
+**Issue status:**  Investigating. It is not advised to repurchase these items in the interim.

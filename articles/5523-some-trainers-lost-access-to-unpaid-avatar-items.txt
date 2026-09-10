@@ -1,0 +1,9 @@
+---
+id: 5523
+title: Some Trainers lost access to unpaid avatar items
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/5523-some-trainers-lost-access-to-unpaid-avatar-items/
+---
+
+**Issue description:** Following a recent mitigation for an unrelated issue, a small subset of Trainers were temporarily able to equip premium avatar items without paying PokéCoins. These items were not granted to player inventories. Once a permanent fix was deployed, any unpaid avatar items were automatically unequipped.
+
+**Issue status:**  Resolved / Working as Intended. No paid items or legitimately acquired inventory were affected.

@@ -1,0 +1,9 @@
+---
+id: 5237
+title: Pokémon Catch Info UI Reverted
+url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/5237-pokemon-catch-info-ui-reverted/
+---
+
+**Issue Description** We identified an issue with our recent update to the Pokémon Catch Info UI and have temporarily reverted to the previous version.
+
+**Issue Status** We are working on a fix.
