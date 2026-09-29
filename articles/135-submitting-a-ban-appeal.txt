@@ -4,7 +4,7 @@ title: Submitting a Ban Appeal
 url: https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/135-submitting-a-ban-appeal/
 ---
 
-Our goal is to provide our players with a fair, fun, and safe gaming experience. To do this, we maintain policies and guidelines that govern content, conduct, and behavior in our games, products, and at live events. Violations of the [Player Guidelines](https://nianticlabs.com/guidelines), [Niantic Terms of Service](https://www.nianticlabs.com/terms), or [Live Event Code of Conduct](https://nianticlabs.com/live-event-coc) may lead to enforcement against your account, including a 10-year or permanent ban.
+Our goal is to provide our players with a fair, fun, and safe gaming experience. To do this, we maintain policies and guidelines that govern content, conduct, and behavior in our games, products, and at live events. Violations of the [Player Guidelines](https://nianticlabs.com/guidelines), [Scopely Explore Terms of Service](https://www.nianticlabs.com/terms), or [Live Event Code of Conduct](https://nianticlabs.com/live-event-coc) may lead to enforcement against your account, including a 10-year or permanent ban.
 
 This includes, but is not limited to:
 
@@ -17,9 +17,9 @@ This includes, but is not limited to:
 
 **Note** : The methods for appealing a suspension have been updated. Please read the following information carefully before submitting an appeal.
 
-### Appeal a suspension for violating the Niantic Terms of Service
+### Appeal a suspension for violating the Scopely Explore Terms of Service
 
-If you've been suspended for breaking the Niantic Terms of Service (ToS), please get in touch with our support team by [using this form](https://niantic.helpshift.com/hc/en/6-pokemon-go/contact-us/?p=web&contact=1) and selecting “ **Ban Appeal** ” from the issue type dropdown.
+If you've been suspended for breaking the Scopely Explore Terms of Service (ToS), please get in touch with our support team by [using this form](https://niantic.helpshift.com/hc/en/6-pokemon-go/contact-us/?p=web&contact=1) and selecting “ **Ban Appeal** ” from the issue type dropdown.
 
 You may also contact our support team by clicking on the " **Submit a Ban Appeal"**  button below and filling out the corresponding form.
 
@@ -35,4 +35,4 @@ There is a misconception that we ban players based on the volume of reports rece
 
 ### **Who reported me?**
 
-To protect the privacy of others, it's our policy to not reveal the sources of our reports. Note that in some cases, automated detection mechanisms flag accounts for suspension without anyone having to report the account to Niantic.
+To protect the privacy of others, it's our policy to not reveal the sources of our reports. Note that in some cases, automated detection mechanisms flag accounts for suspension without anyone having to report the account to Scopely Explore.
